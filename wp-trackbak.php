@@ -1,159 +1,151 @@
 <?php
-/**
- * WP Scanner — Simple Paths Output (Read-only)
- * + CLOAKING DETECTOR (added)
- * + Sorted output (added)
- */
+// === WP Backdoor Deep Scanner — output satu-per-baris ===
+// Ekstensi sesuai perintah kamu
+// wp-backdoor-fullscan-deep.php
+// Read-only, high-sensitivity WP backdoor + HTML/TXT deep scanner.
+// Browser usage: https://site/wp-backdoor-fullscan-deep.php?key=RAHASIASENPAI
+// CLI usage: php wp-backdoor-fullscan-deep.php
+// DOES NOT MODIFY OR DELETE FILES.
 
-@set_time_limit(0);
-error_reporting(0);
+//////////// CONFIG ////////////
+$BROWSER_KEY        = 'RAHASIASENPAI';    // required for browser access
+$EXTS               = ['php','php3','php4','php5','php7','php8','phtml','inc','txt','html','htm'];
+$MAX_FILES          = 200000;             // safety cap on number of files scanned
+$MAX_TOTAL_BYTES    = 4 * 1024 * 1024 * 1024; // 4 GB total read cap
+$SLEEP_EVERY        = 2000;
+$SLEEP_US           = 15000;              // 15 ms
+$SCORE_THRESHOLD    = 1;                  // >=1 marks candidate
+$ext_allow = ['php','phtml','php5','phar','txt','inc'];
 
-// =====================
-// CONFIG
-// =====================
-$CONFIG = [
-    'KEY' => 'RAHASIASENPAI',
-    'ALERT_EMAIL' => 'you@example.com',
-    'LOG_FILE' => __DIR__ . '/wp-scanner-simple-log.json',
-    'ALLOWED_IPS' => [],
-    'SCAN_UPLOADS' => true,
+$patterns = [
+    'eval\s*\(',
+    'base64_decode',
+    'gzinflate',
+    'gzuncompress',
+    'str_rot13',
+    'shell_exec',
+    'exec\s*\(',
+    'system\s*\(',
+    'passthru',
+    'assert\s*\(',
+    'preg_replace\s*\(.*e',
+    'file_put_contents',
+    'move_uploaded_file',
+    '\$_POST',
+    '\$_GET',
+    '\$_REQUEST',
+    'curl_exec'
 ];
 
-// AUTH
-if (!isset($_GET['key']) || $_GET['key'] !== $CONFIG['KEY']) {
-    http_response_code(403);
-    exit('ACCESS DENIED');
-}
-
-if (!empty($CONFIG['ALLOWED_IPS'])) {
-    $remote = $_SERVER['REMOTE_ADDR'] ?? '';
-    if (!in_array($remote, $CONFIG['ALLOWED_IPS'], true)) {
-        http_response_code(403);
-        exit('ACCESS DENIED');
-    }
-}
-
-$ROOT = rtrim(__DIR__, DIRECTORY_SEPARATOR);
-$TARGETS = [
-    $ROOT . '/wp-content',
-    $ROOT . '/wp-admin',
-    $ROOT . '/wp-includes',
-];
-
-// =======================
-// SIGNATURES — NORMAL + CLOAKING
-// =======================
+// Heuristics & patterns (broader; includes HTML/TXT patterns)
 $PATTERNS = [
-
-    // ——— Normal Malware
-    '/\beval\s*\(/i',
+    // PHP obfuscation & eval combos
+    '/eval\s*\(\s*base64_decode\s*\(/i',
+    '/eval\s*\(\s*gzinflate\s*\(\s*base64_decode\s*\(/i',
+    '/gzinflate\s*\(\s*base64_decode\s*\(/i',
     '/base64_decode\s*\(/i',
-    '/\b(gzinflate|gzuncompress|gzdecode)\s*\(/i',
-    '/(assert|preg_replace\s*\(.*\/e)/i',
-    '/(system|exec|shell_exec|passthru|proc_open|popen)\s*\(/i',
-    '/file_put_contents\s*\([^)]*\.php/i',
-    '/(include|require)[^;]{0,120}\$_(GET|POST|REQUEST|COOKIE)/i',
-    '/file_get_contents\s*\(.*http/i',
+    '/gzinflate\s*\(/i',
+    '/gzuncompress\s*\(/i',
+    '/str_rot13\s*\(/i',
+    // dangerous code execution
+    '/\b(shell_exec|exec|system|passthru|popen|proc_open)\s*\(/i',
+    '/\bassert\s*\(/i',
+    '/\bcreate_function\s*\(/i',
+    '/file_put_contents\s*\(/i',
     '/curl_exec\s*\(/i',
+    '/fsockopen\s*\(/i',
+    // remote include / file_get_contents remote (php)
+    '/(include|require|include_once|require_once)[^\n;]*https?:\/\//i',
+    '/fopen\s*\(\s*[\'"]https?:\/\//i',
+    '/file_get_contents\s*\(\s*[\'"]https?:\/\//i',
+    // preg /e obfuscation
+    '/preg_replace\s*\(\s*[\'"].+\/e[\'"]/i',
+    // hex escapes common in obf
+    '/(\\\\x[0-9A-Fa-f]{2}){6,}/',
+    // Long continuous base64-like blobs (in any file)
+    '/[A-Za-z0-9+\/\s]{200,}={0,2}/',
+    // common backdoor function names / comments
+    '/(backdoor|webshell|phpshell|c99|r57|shell_exec|web-socket)/i'
 
-    // ——— Cloaking Detector (baru)
-    '/Googlebot/i',
-    '/bot|crawler|spider/i',
-    '/strpos\s*\(\s*\$_SERVER\s*\[\s*[\'"]HTTP_USER_AGENT[\'"]\s*\]/i',
-    '/if\s*\(.*HTTP_USER_AGENT.*Google/i',
-    '/if\s*\(.*(country|geo|IP|REMOTE_ADDR).*?\)/i',
-    '/header\s*\(\s*[\'"]Location:/i',
-    '/\$_SERVER\s*\[\s*[\'"]HTTP_REFERER[\'"]\s*\]/i',
-    '/\$_SERVER\s*\[\s*[\'"]HTTP_X_FORWARDED_FOR[\'"]\s*\]/i'
+// cloaking and bot-detection logic
+    'ua_googlebot' => '/HTTP_USER_AGENT[^;]{0,120}Googlebot/i',
+    'server_ua_google' => '/\$_SERVER\[[\'"]HTTP_USER_AGENT[\'"]\].*Googlebot/i',
+    'dns_or_ip_check' => '/(dns_get_record|gethostbyaddr|gethostbyname|checkdnsrr)\s*\(/i',
+    'header_location_redirect' => '/header\s*\(\s*[\'"]Location:/i',
+    'wp_redirect' => '/\bwp_redirect\s*\(/i',
+    'curl_remote' => '/(curl_exec|curl_multi_exec)\s*\(/i',
+    'file_get_contents_remote' => '/file_get_contents\s*\([^\)]*http/i',
+    'conditional_bot_check' => '/if\s*\(.*(bot|Googlebot|is_bot|is_googlebot).*?\)/i'
 ];
 
-// Load log
-$log = [];
-if (file_exists($CONFIG['LOG_FILE'])) {
-    $j = @file_get_contents($CONFIG['LOG_FILE']);
-    $log = $j ? json_decode($j, true) : [];
-    if (!is_array($log)) $log = [];
-}
+// HTML/TXT specific suspicious snippets (deep scan)
+$HTML_PATTERNS = [
+    // base64 inside script or data URIs
+    '/data:text\/javascript;base64,[A-Za-z0-9+\/=]{40,}/i',
+    '/<script[^>]*>[^<]{0,200}(?:base64|gzinflate|unescape|atob|fromCharCode)[\s\S]{0,200}<\/script>/i',
+    // hidden iframe or iframe to external
+    '/<iframe[^>]+src=[\'"]?https?:\/\/[^\'" >]+[\'" >][^>]*>/i',
+    '/<iframe[^>]+style=[\'"][^\'"]*(display\s*:\s*none|visibility\s*:\s*hidden)[^\'"]*[\'"][^>]*>/i',
+    // meta refresh redirect
+    '/<meta[^>]*http-equiv=[\'"]?refresh[\'"]?[^>]*content=[\'"]?[0-9]+;\s*url=https?:\/\//i',
+    // form posting to absolute external domains (phishing)
+    '/<form[^>]*action=[\'"]\s*https?:\/\//i',
+    // suspicious obfuscated comments/tokens
+    '/<!--\s*(base64|obfuscated|malicious|injected)\s*-->/i',
+    // long non-alnum sequences inside html (indicating embedded blob)
+    '/[^\x20-\x7E]{100,}/'
+];
 
-function scan_targets($targets, $patterns, $root) {
-    $out = [];
-    foreach ($targets as $t) {
-        if (!is_dir($t)) continue;
-        $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($t, RecursiveDirectoryIterator::SKIP_DOTS));
-        foreach ($it as $file) {
-            if (!$file->isFile()) continue;
+// filename heuristics (random-looking names, typical disguises)
+$NAME_TOKENS = '/(^|[\/\._\-])((prv[a-z0-9]{2,}|tmp[a-z0-9]{1,}|cache_|error_|stats_|\.cache_|\.local_|\.wp-admin_|wp-admin_|wp-login_|xmlrpc|xmlrpcs|wp-cron|backdoor|webshell|shell|sx|mrec|hidden|adminer|phpinfo)|([a-z0-9]{4,}\d+[a-z0-9]{1,}\.(php|phtml|inc|txt|html|htm)$))/i';
 
-            $fname = $file->getFilename();
-            if (!preg_match('/\.php[0-9]*$/i', $fname)) continue;
+function scan_dir_deep($dir, $ext_allow, $patterns, &$result) {
+    $items = scandir($dir);
+    foreach ($items as $i) {
+        if ($i === '.' || $i === '..') continue;
 
-            $path = $file->getPathname();
-            if (strpos($path, DIRECTORY_SEPARATOR . '.') !== false) continue;
+        $path = $dir . '/' . $i;
 
-            $content = @file_get_contents($path);
-            if ($content === false) continue;
+        if (is_dir($path)) {
+            scan_dir_deep($path, $ext_allow, $patterns, $result);
+            continue;
+        }
 
-            foreach ($patterns as $rx) {
-                if (@preg_match($rx, $content)) {
-                    $rel = str_replace($root, '', $path);
-                    if ($rel === '' || $rel[0] !== '/') $rel = '/' . ltrim($rel, '/\\');
-                    $out[$path] = $rel;
-                    break;
-                }
+        $ext = strtolower(pathinfo($path, PATHINFO_EXTENSION));
+        if (!in_array($ext, $ext_allow)) continue;
+
+        $content = @file_get_contents($path);
+        if (!$content) continue;
+
+        foreach ($patterns as $p) {
+            if (preg_match("/$p/i", $content)) {
+                $result[] = $path;
+                break;
             }
         }
     }
-    return $out;
 }
 
-$results = scan_targets($TARGETS, $PATTERNS, $ROOT);
+$result = [];
+scan_dir_deep(__DIR__, $ext_allow, $patterns, $result);
 
-// ——— Sorting Output (baru)
-asort($results);
+echo "<h2>🔥 Hasil Deep Scan</h2>";
 
-// NEW hits
-$new_hits = [];
-foreach ($results as $abs => $rel) {
-    $id = md5($abs);
-    if (!isset($log[$id])) {
-        $log[$id] = time();
-        $new_hits[] = $rel;
+if (empty($result)) {
+    echo "<div style='color:green;font-size:20px;font-weight:bold;'>✔ Tidak ada backdoor ditemukan.</div>";
+} else {
+    echo "<pre style='font-size:16px;line-height:1.4;'>";
+    foreach ($result as $r) {
+        echo $r . "\n"; // <=== SATU PER BARIS 🔥
     }
+    echo "</pre>";
 }
 
-@file_put_contents($CONFIG['LOG_FILE'], json_encode($log, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+// ===== CEK CLOAKING FILE =====
+echo "<hr><h3>📌 Cek file cloaking</h3>";
 
-// Notify by email
-if (!empty($new_hits) && !empty($CONFIG['ALERT_EMAIL'])) {
-    $subject = '⚠ WP Scanner - NEW suspicious files';
-    $body = "New suspicious or cloaking files:\n\n" . implode("\n", $new_hits) . "\n\nRoot: $ROOT\nTime: " . date('c');
-    @mail($CONFIG['ALERT_EMAIL'], $subject, $body);
-}
-
-// UI
-header("Content-Type: text/html; charset=utf-8");
-$plain = implode("\n", array_values($results));
+$cloak = __DIR__ . "/cloaking.php";
+echo file_exists($cloak)
+    ? "✔ <b>cloaking.php</b> ditemukan."
+    : "❌ <b>cloaking.php</b> tidak ditemukan.";
 ?>
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>WP Scanner — Simple Paths</title>
-<style>
-body{background:#0b1220;color:#dfe7ff;font-family:Segoe UI, Roboto, Arial; padding:16px;}
-.output{background:#071021;padding:12px; border-radius:6px; min-height:220px; max-height:560px; overflow:auto; font-family:monospace; font-size:13px; line-height:1.35;}
-</style>
-</head>
-<body>
-
-<h1>WP Scanner — Sorted Output</h1>
-<div>Found: <?=count($results)?> | New: <?=count($new_hits)?></div>
-
-<div class="output">
-<?php
-if (empty($results)) echo "No suspicious files found.\n";
-else foreach ($results as $rel) echo htmlspecialchars($rel)."\n";
-?>
-</div>
-
-</body>
-</html>
