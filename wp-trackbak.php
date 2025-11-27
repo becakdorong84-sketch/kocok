@@ -1,18 +1,13 @@
 <?php
 /**
- * WP Super Scanner — Improved Secure Edition
- * Save as: wp-scanner-secure.php
+ * WP Scanner — Simple Paths Output (Read-only)
+ * - Outputs only file paths (one per line)
+ * - Scans: wp-content, wp-admin, wp-includes (recursively)
+ * - Logs hits to avoid duplicate email alerts
  *
- * Improvements:
- * - Severity levels (HIGH / MEDIUM / LOW)
- * - Built-in whitelist for common plugins/themes to reduce false positives
- * - Recent-file flag (modified within N days)
- * - Detect PHP in uploads, move_uploaded_file, remote fetchs, cloaking checks
- * - Better email formatting with severity & counts
- * - Read-only by default; optional AUTO_BACKUP (copy only)
- *
- * IMPORTANT: Change $CONFIG['KEY'] and $CONFIG['ALERT_EMAIL'] before use.
- * Consider moving file to non-public folder or adding .htaccess protection.
+ * IMPORTANT:
+ * 1) CHANGE the CONFIG['KEY'] and CONFIG['ALERT_EMAIL'] before use.
+ * 2) Protect this script (move outside webroot or protect with .htaccess) after use.
  */
 
 @set_time_limit(0);
@@ -22,270 +17,170 @@ error_reporting(0);
 // CONFIG - MUST CHANGE
 // =====================
 $CONFIG = [
-    'KEY' => 'RAHASIASENPAI',                 // <-- CHANGE THIS (strong random string)
-    'ALERT_EMAIL' => 'becakdorong84@gmail.com',// <-- CHANGE THIS
-    'LOG_FILE' => __DIR__ . '/wp-scanner-log.json',
-    'ALLOWED_IPS' => [],                      // empty = allow all; add your IP(s) to restrict
-    'AUTO_BACKUP' => false,                   // if true, copies suspicious files to quarantine dir
-    'QUARANTINE_DIR' => __DIR__ . '/scanner_quarantine',
-    'RECENT_DAYS' => 14,                      // flag files modified within this many days
-    'SCAN_UPLOADS' => true,                   // scan wp-content/uploads for php files
+    'KEY' => 'GANTI_DENGAN_KUNCI_YANG_SULIT',    // <-- CHANGE THIS to a strong secret
+    'ALERT_EMAIL' => 'you@example.com',         // <-- CHANGE THIS to your email
+    'LOG_FILE' => __DIR__ . '/wp-scanner-simple-log.json',
+    'ALLOWED_IPS' => [],                        // optional: ['1.2.3.4'] to restrict
+    'SCAN_UPLOADS' => true,                     // scan wp-content/uploads as well
 ];
 
-// key auth
+// AUTH
 if (!isset($_GET['key']) || $_GET['key'] !== $CONFIG['KEY']) {
     http_response_code(403);
     exit('ACCESS DENIED');
 }
 
-// optional IP allowlist (exact match)
+// optional IP allowlist
 if (!empty($CONFIG['ALLOWED_IPS'])) {
     $remote = $_SERVER['REMOTE_ADDR'] ?? '';
-    $ok = in_array($remote, $CONFIG['ALLOWED_IPS'], true);
-    if (!$ok) {
+    if (!in_array($remote, $CONFIG['ALLOWED_IPS'], true)) {
         http_response_code(403);
         exit('ACCESS DENIED - IP NOT ALLOWED');
     }
 }
 
-// ROOT and target dirs
+// Root & targets
 $ROOT = rtrim(__DIR__, DIRECTORY_SEPARATOR);
 $TARGETS = [
-    $ROOT . '/wp-content',
-    $ROOT . '/wp-admin',
-    $ROOT . '/wp-includes',
-];
-if ($CONFIG['SCAN_UPLOADS']) {
-    // ensure uploads path is considered (part of wp-content)
-    // no change needed; uploads under wp-content will be scanned by default
-}
-
-// ==============
-// Whitelist: common plugin/theme folders to reduce LOW-level false positives
-// Edit this list to match plugins/themes you trust on your site.
-// If a file path matches a whitelist entry, LOW severity detections will be suppressed.
-// ==============
-$WHITELIST_PATHS = [
-    '/wp-content/plugins/elementor',
-    '/wp-content/plugins/elementor-pro',
-    '/wp-content/plugins/duplicator',
-    '/wp-content/plugins/woocommerce',
-    '/wp-content/themes/astra',
-    '/wp-content/plugins/akismet',
-    '/wp-content/plugins/contact-form-7',
-    // add more as needed...
+    $ROOT . DIRECTORY_SEPARATOR . 'wp-content',
+    $ROOT . DIRECTORY_SEPARATOR . 'wp-admin',
+    $ROOT . DIRECTORY_SEPARATOR . 'wp-includes',
 ];
 
-// ==============
-// Patterns with severity: HIGH / MEDIUM / LOW
-// Regex should be deliberately broad but avoid trivial catches.
-// ==============
+// Simple signature patterns (broad but effective)
 $PATTERNS = [
-    // HIGH (very likely dangerous)
-    ['label'=>'system_exec','re'=>'/\b(system|exec|shell_exec|passthru|proc_open|popen)\s*\(/i','sev'=>'HIGH','desc'=>'Exec/Shell functions'],
-    ['label'=>'eval','re'=>'/\beval\s*\(/i','sev'=>'HIGH','desc'=>'eval() - executes string code'],
-    ['label'=>'assert','re'=>'/\bassert\s*\(/i','sev'=>'HIGH','desc'=>'assert() can execute code'],
-    ['label'=>'preg_replace_e','re'=>'/preg_replace\s*\(.*\/e[\'"]?/i','sev'=>'HIGH','desc'=>'preg_replace /e (executes code)'],
-    ['label'=>'include_request','re'=>'/(include|require|include_once|require_once)[^;]{0,120}\$_(GET|POST|REQUEST|COOKIE)/i','sev'=>'HIGH','desc'=>'Include/require from user input'],
-    ['label'=>'move_uploaded_exec','re'=>'/move_uploaded_file\s*\(|is_uploaded_file\s*\(|\$_FILES\b/i','sev'=>'HIGH','desc'=>'File upload handling (possible webshell upload)'],
-
-    // MEDIUM (suspicious obfuscation / remote fetch)
-    ['label'=>'base64_decode','re'=>'/base64_decode\s*\(/i','sev'=>'MEDIUM','desc'=>'base64_decode usage'],
-    ['label'=>'gzinflate','re'=>'/\b(gzinflate|gzuncompress|gzdecode)\s*\(/i','sev'=>'MEDIUM','desc'=>'gzinflate/gzuncompress (compressed payload)'],
-    ['label'=>'str_rot13','re'=>'/str_rot13\s*\(/i','sev'=>'MEDIUM','desc'=>'ROT13 obfuscation'],
-    ['label'=>'pack_chr_ord','re'=>'/\b(pack|chr|ord)\s*\(/i','sev'=>'MEDIUM','desc'=>'pack/chr/ord obfuscation'],
-    ['label'=>'dynamic_call','re'=>'/\$[a-zA-Z_\x7f-\xff][a-zA-Z0-9_\x7f-\xff]*\s*\(\s*\$[a-zA-Z_\x7f-\xff]/i','sev'=>'MEDIUM','desc'=>'Dynamic function call (variable function)'],
-    ['label'=>'file_get_http','re'=>'/file_get_contents\s*\([^\)]*http/i','sev'=>'MEDIUM','desc'=>'file_get_contents remote HTTP fetch'],
-    ['label'=>'curl_exec','re'=>'/(curl_exec|curl_multi_exec)\s*\(/i','sev'=>'MEDIUM','desc'=>'curl remote fetch'],
-
-    // LOW (common but potentially abused - many false positives)
-    ['label'=>'long_base64','re'=>'/[\'"][A-Za-z0-9\/+=]{160,}[\'"]/','sev'=>'LOW','desc'=>'Long base64 blob (possible payload)'],
-    ['label'=>'long_hex','re'=>'/[\'"][0-9A-Fa-f]{160,}[\'"]/','sev'=>'LOW','desc'=>'Long hex blob'],
-    ['label'=>'goto','re'=>'/\bgoto\b/i','sev'=>'LOW','desc'=>'goto used for obfuscation'],
-    ['label'=>'header_location','re'=>'/header\s*\(\s*[\'"]Location:/i','sev'=>'LOW','desc'=>'header Location redirect (used for cloaking/redirects)'],
-    ['label'=>'ua_googlebot_check','re'=>'/HTTP_USER_AGENT[^;]{0,120}Googlebot/i','sev'=>'LOW','desc'=>'Googlebot string check (possible cloaking)'],
-    ['label'=>'conditional_bot','re'=>'/if\s*\(.*(bot|Googlebot|is_bot|is_googlebot).*?\)/i','sev'=>'LOW','desc'=>'Conditional bot checks (cloaking)'],
+    '/\beval\s*\(/i',
+    '/base64_decode\s*\(/i',
+    '/\b(gzinflate|gzuncompress|gzdecode)\s*\(/i',
+    '/\b(assert|preg_replace\s*\(.*\/e[\'"]?)/i',
+    '/\b(system|exec|shell_exec|passthru|proc_open|popen)\s*\(/i',
+    '/file_put_contents\s*\([^)]*\.php/i',
+    '/(include|require)[^;]{0,120}\$_(GET|POST|REQUEST|COOKIE)/i',
+    '/file_get_contents\s*\([^\)]*http/i',
+    '/(curl_exec|curl_multi_exec)\s*\(/i',
+    '/str_rot13\s*\(/i',
+    '/\b(pack|chr|ord)\s*\(/i',
+    '/\bgoto\b/i',
+    '/\$_FILES\b|move_uploaded_file\s*\(/i',
+    '/[\'"][A-Za-z0-9\/+=]{160,}[\'"]/',     // long base64-ish
+    '/[\'"][0-9A-Fa-f]{160,}[\'"]/',         // long hex blob
+    '/HTTP_USER_AGENT[^;]{0,120}Googlebot/i',
+    '/if\s*\(.*(bot|Googlebot|is_bot|is_googlebot).*?\)/i'
 ];
 
-// helper: check if path matches any whitelist prefix
-function is_whitelisted($relpath, $whitelist) {
-    $p = str_replace('\\','/',$relpath);
-    foreach ($whitelist as $wp) {
-        $wpn = trim($wp,'/ ');
-        if ($wpn === '') continue;
-        // match if path contains that segment
-        if (stripos($p, '/'.$wpn) !== false || stripos($p, $wpn) === 0) return true;
-    }
-    return false;
-}
-
-// load log
+// load log (ids of previous hits)
 $log = [];
 if (file_exists($CONFIG['LOG_FILE'])) {
-    $json = @file_get_contents($CONFIG['LOG_FILE']);
-    $log = $json ? json_decode($json, true) : [];
+    $j = @file_get_contents($CONFIG['LOG_FILE']);
+    $log = $j ? json_decode($j, true) : [];
     if (!is_array($log)) $log = [];
 }
 
-// quarantine folder if enabled
-if ($CONFIG['AUTO_BACKUP']) {
-    if (!is_dir($CONFIG['QUARANTINE_DIR'])) @mkdir($CONFIG['QUARANTINE_DIR'],0700,true);
-}
+// scan function
+function scan_targets($targets, $patterns, $root) {
+    $out = [];
+    foreach ($targets as $t) {
+        if (!is_dir($t)) continue;
+        $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($t, RecursiveDirectoryIterator::SKIP_DOTS));
+        foreach ($it as $file) {
+            if (!$file->isFile()) continue;
+            $fname = $file->getFilename();
+            if (!preg_match('/\.php[0-9]*$/i', $fname)) continue;
 
-// scan
-$results = []; // each item: ['path'=>, 'labels'=>[], 'hash'=>, 'mtime'=>, 'sev_high'=>bool, 'recent'=>bool]
-$candidates = 0;
-$now = time();
-$recent_seconds = max(0, (int)$CONFIG['RECENT_DAYS']) * 24 * 3600;
+            $path = $file->getPathname();
+            // skip hidden files
+            if (strpos($path, DIRECTORY_SEPARATOR . '.') !== false) continue;
 
-foreach ($TARGETS as $t) {
-    if (!is_dir($t)) continue;
-    $it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($t, RecursiveDirectoryIterator::SKIP_DOTS));
-    foreach ($it as $file) {
-        if (!$file->isFile()) continue;
-        $fname = $file->getFilename();
-        if (!preg_match('/\.php[0-9]*$/i', $fname)) continue;
+            $content = @file_get_contents($path);
+            if ($content === false) continue;
 
-        $path = $file->getPathname();
-        // skip hidden dot paths
-        if (strpos($path, DIRECTORY_SEPARATOR . '.') !== false) continue;
-
-        $content = @file_get_contents($path);
-        if ($content === false) continue;
-        $candidates++;
-
-        $matched = [];
-        $sev_high = false;
-        foreach ($PATTERNS as $p) {
-            $ok = @preg_match($p['re'],$content);
-            if ($ok) {
-                // severity-based whitelist suppression of LOW matches
-                // if file is in whitelisted plugin/theme and match severity LOW -> skip this label
-                if ($p['sev']==='LOW' && is_whitelisted($path, $WHITELIST_PATHS)) {
-                    continue;
+            foreach ($patterns as $rx) {
+                if (@preg_match($rx, $content)) {
+                    $rel = str_replace($root, '', $path);
+                    // ensure leading slash
+                    if ($rel === '' || $rel[0] !== '/' ) $rel = '/' . ltrim($rel, '/\\');
+                    $out[$path] = $rel;
+                    break;
                 }
-                $matched[] = $p['label'];
-                if ($p['sev'] === 'HIGH') $sev_high = true;
-            }
-        }
-
-        if (!empty($matched)) {
-            $rel = str_replace($ROOT,'',$path);
-            $hash = @hash_file('sha1',$path) ?: '';
-            $mtime = @filemtime($path) ?: 0;
-            $recent = ($recent_seconds>0 && ($now - $mtime) <= $recent_seconds) ? true : false;
-
-            $id = md5($path . '|' . implode(',',$matched) . '|' . $hash);
-            $results[$id] = [
-                'path' => $rel ?: $path,
-                'labels' => $matched,
-                'hash' => $hash,
-                'mtime' => $mtime,
-                'recent' => $recent,
-                'high' => $sev_high
-            ];
-
-            // backup copy (safe copy only) if enabled and new
-            if ($CONFIG['AUTO_BACKUP'] && !isset($log[$id])) {
-                $dst = rtrim($CONFIG['QUARANTINE_DIR'],DIRECTORY_SEPARATOR) . DIRECTORY_SEPARATOR . basename($path) . '.' . substr($hash,0,8) . '.bak';
-                @copy($path, $dst);
             }
         }
     }
+    return $out;
 }
 
-// prepare email for new hits
+// run scan
+$results = scan_targets($TARGETS, $PATTERNS, $ROOT);
+
+// determine new hits and update log
 $new_hits = [];
-foreach ($results as $id => $r) {
+foreach ($results as $abs => $rel) {
+    $id = md5($abs);
     if (!isset($log[$id])) {
         $log[$id] = time();
-        // include severity marker and recent flag
-        $sev = $r['high'] ? 'HIGH' : 'MED';
-        $note = $r['recent'] ? ' (recent)' : '';
-        $new_hits[] = "{$r['path']} [{$sev}] {$note} - labels: " . implode(',', $r['labels']);
+        $new_hits[] = $rel;
     }
 }
 
 // save log
 @file_put_contents($CONFIG['LOG_FILE'], json_encode($log, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
 
-// email notification
+// send email if new hits
 if (!empty($new_hits) && !empty($CONFIG['ALERT_EMAIL'])) {
     $subject = '⚠ WP Scanner - New suspicious files on ' . ($_SERVER['HTTP_HOST'] ?? 'site');
-    $body = "New suspicious files detected:\n\n" . implode("\n", $new_hits) . "\n\nScan root: $ROOT\nTime: " . date('c') . "\n\nNotes:\n- HIGH = likely dangerous (exec/include from input etc.)\n- MED = suspicious obfuscation or remote fetch\n- LOW = minor patterns (often false positives, may be whitelisted)\n";
+    $body = "New suspicious files detected:\n\n" . implode("\n", $new_hits) . "\n\nScan root: $ROOT\nTime: " . date('c') . "\n\nNote: This scanner outputs only file paths. Remove scanner after cleanup.";
     @mail($CONFIG['ALERT_EMAIL'], $subject, $body);
 }
 
-// Output HTML UI (dark) - copy-friendly & JSON download
-header('Content-Type: text/html; charset=utf-8');
+// Output: plain text UI and HTML copy-friendly UI
+header("Content-Type: text/html; charset=utf-8");
+$plain = implode("\n", array_values($results));
 ?>
 <!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
-<title>WP Super Scanner — Improved Secure</title>
+<title>WP Scanner — Simple Paths</title>
 <style>
-body{background:#061018;color:#dcecff;font-family:Inter, Roboto, Arial;margin:18px;}
+body{background:#0b1220;color:#dfe7ff;font-family:Segoe UI, Roboto, Arial; padding:16px;}
 .wrap{max-width:1100px;margin:0 auto}
-h1{margin:0 0 6px;font-size:20px;color:#ffd1c1}
+h1{color:#ffd1c1;margin:0 0 6px}
 .meta{color:#9fb0d7;margin-bottom:12px}
 .toolbar{margin:10px 0}
 button{background:#2f70b3;color:#fff;border:0;padding:8px 12px;border-radius:6px;margin-right:8px;cursor:pointer}
-.output{background:#071021;padding:14px;border-radius:8px;min-height:320px;max-height:640px;overflow:auto;font-family:monospace;font-size:13px;line-height:1.35;border:1px solid #032;}
-.line-high{color:#ff8b8b;margin-bottom:8px}
-.line-med{color:#ffd59e;margin-bottom:8px}
-.line-low{color:#9fb0d7;margin-bottom:8px}
-.small{color:#9fb0d7;font-size:13px}
-.note{background:#07202a;border:1px solid #053;padding:10px;border-radius:6px;margin-top:12px;color:#a8e6d0}
+.output{background:#071021;padding:12px;border-radius:6px;min-height:220px;max-height:560px;overflow:auto;font-family:monospace;font-size:13px;line-height:1.35;border:1px solid #032;color:#cfe8ff}
+.badge{display:inline-block;padding:2px 6px;border-radius:4px;background:#18314a;color:#fff;margin-left:6px;font-size:12px}
 .footer{margin-top:14px;color:#95a7c8;font-size:13px}
-.badge{display:inline-block;padding:2px 6px;border-radius:4px;background:#222;color:#fff;margin-left:6px;font-size:12px}
+.small{color:#9fb0d7;font-size:13px}
 </style>
 </head>
 <body>
 <div class="wrap">
-    <h1>WP Super Scanner — Improved Secure</h1>
+    <h1>WP Scanner — Simple Paths Output</h1>
     <div class="meta">Root: <strong><?php echo htmlspecialchars($ROOT); ?></strong>
-        — Candidates scanned: <strong><?php echo $candidates; ?></strong>
-        <span class="badge">New hits: <?php echo count($new_hits); ?></span>
-        <span class="badge">Total suspicious: <?php echo count($results); ?></span>
+        <span class="badge">Found: <?php echo count($results); ?></span>
+        <span class="badge">New: <?php echo count($new_hits); ?></span>
     </div>
 
     <div class="toolbar">
         <button id="copy">Copy ALL</button>
         <button id="download">Download JSON</button>
-        <button id="refresh" onclick="location.reload()">Refresh</button>
+        <button onclick="location.reload()">Refresh</button>
     </div>
 
-    <div class="output" id="out">
-<?php
-if (empty($results)) {
-    echo "<div class='line-high' style='color:#7fe5a6'>No suspicious files found.</div>";
-} else {
-    foreach ($results as $r) {
-        $path = htmlspecialchars($r['path']);
-        $labels = htmlspecialchars(implode(',', $r['labels']));
-        $mtime = $r['mtime'] ? date('Y-m-d H:i:s',$r['mtime']) : 'n/a';
-        $recent = $r['recent'] ? ' [recent]' : '';
-        if ($r['high']) {
-            echo "<div class='line-high'>/{$path}  —  <strong>HIGH</strong>{$recent}  —  labels: [{$labels}]  — mtime: {$mtime}</div>";
+    <div class="output" id="out" contenteditable="false"><?php
+        if (empty($results)) {
+            echo "No suspicious files found.\n";
         } else {
-            echo "<div class='line-med'>/{$path}  —  <strong>MED</strong>{$recent}  —  labels: [{$labels}]  — mtime: {$mtime}</div>";
+            // print lines just as requested
+            foreach ($results as $rel) {
+                echo htmlspecialchars($rel) . "\n";
+            }
         }
-    }
-}
-?>
-    </div>
-
-    <div class="note">
-        <div class="small">Notes: This scanner is read-only by default. AUTO_BACKUP is <?php echo $CONFIG['AUTO_BACKUP'] ? 'ON' : 'OFF'; ?>.
-        LOW-severity patterns are suppressed for common whitelisted plugins/themes to reduce false positives.
-        Edit whitelist in the script if you trust additional plugins/themes.</div>
-    </div>
+    ?></div>
 
     <div class="footer">
-        <div class="small">Log file: <code><?php echo htmlspecialchars($CONFIG['LOG_FILE']); ?></code></div>
-        <div class="small">Quarantine dir: <code><?php echo htmlspecialchars($CONFIG['QUARANTINE_DIR']); ?></code></div>
-        <div class="small">Security: Change KEY & ALERT_EMAIL immediately and protect this script. Remove after use.</div>
+        <div class="small">Log: <code><?php echo htmlspecialchars($CONFIG['LOG_FILE']); ?></code></div>
+        <div class="small">Security: change KEY & ALERT_EMAIL. Remove this script after cleanup.</div>
     </div>
 </div>
 
@@ -294,17 +189,21 @@ if (empty($results)) {
     const out = document.getElementById('out');
     document.getElementById('copy').addEventListener('click', async function(){
         try {
-            const text = Array.from(out.querySelectorAll('div')).map(n=>n.innerText.trim()).join("\n");
+            // copy plain text (one path per line)
+            const text = out.innerText.trim();
             await navigator.clipboard.writeText(text);
             this.textContent = 'Copied ✓';
             setTimeout(()=> this.textContent = 'Copy ALL', 1500);
-        } catch(e){ alert('Copy failed: use Select All'); }
+        } catch(e) {
+            alert('Copy failed: use Select All (Ctrl+A) then Ctrl+C');
+        }
     });
     document.getElementById('download').addEventListener('click', function(){
         const data = <?php echo json_encode(array_values($results), JSON_UNESCAPED_SLASHES); ?>;
         const blob = new Blob([JSON.stringify(data, null, 2)], {type:'application/json'});
         const url = URL.createObjectURL(blob);
-        const a = document.createElement('a'); a.href = url; a.download = 'wp-scanner-results-<?php echo date("Ymd-His"); ?>.json';
+        const a = document.createElement('a'); a.href = url;
+        a.download = 'wp-scanner-results-<?php echo date("Ymd-His"); ?>.json';
         document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
     });
 })();
