@@ -1,0 +1,1132 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
+	<meta name="verify-admitad" content="dcc855d0a2" />
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v26.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>IHG Hotels &amp; Resorts - List of All IHG Hotel &amp; Resorts</title>
+	<meta name="description" content="IHG is not known for its five-star hotel collection — though it’s got its fair share of show-stoppers. Recognizable IHG hotel brands are Holiday Inn, Crowne Plaza, Staybridge Suites, and Candlewood suites." />
+	<link rel="canonical" href="https://scoopbiz.com/ihg-hotels-resorts/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="IHG Hotels &amp; Resorts - List of All IHG Hotel &amp; Resorts" />
+	<meta property="og:description" content="IHG is not known for its five-star hotel collection — though it’s got its fair share of show-stoppers. Recognizable IHG hotel brands are Holiday Inn, Crowne Plaza, Staybridge Suites, and Candlewood suites." />
+	<meta property="og:url" content="https://scoopbiz.com/ihg-hotels-resorts/" />
+	<meta property="og:site_name" content="scoopbiz.com" />
+	<meta property="article:published_time" content="2022-08-10T06:05:39+00:00" />
+	<meta property="article:modified_time" content="2022-10-19T08:03:05+00:00" />
+	<meta property="og:image" content="https://scoopbiz.com/wp-content/uploads/2022/10/IhG.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="650" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="admins" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="admins" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="11 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://scoopbiz.com/ihg-hotels-resorts/#article","isPartOf":{"@id":"https://scoopbiz.com/ihg-hotels-resorts/"},"author":{"name":"admins","@id":"https://scoopbiz.com/#/schema/person/ece8cff30707b4bc12c30d9b1f82eb5c"},"headline":"IHG Hotels &#038; Resorts","datePublished":"2022-08-10T06:05:39+00:00","dateModified":"2022-10-19T08:03:05+00:00","mainEntityOfPage":{"@id":"https://scoopbiz.com/ihg-hotels-resorts/"},"wordCount":1755,"commentCount":0,"publisher":{"@id":"https://scoopbiz.com/#organization"},"image":{"@id":"https://scoopbiz.com/ihg-hotels-resorts/#primaryimage"},"thumbnailUrl":"https://scoopbiz.com/wp-content/uploads/2022/10/IhG.png","keywords":["IHG Hotels &amp; Resorts","IHG Hotels &amp; Resorts Review","List IHG Hotels &amp; Resorts"],"articleSection":["Hotel","Travel"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://scoopbiz.com/ihg-hotels-resorts/","url":"https://scoopbiz.com/ihg-hotels-resorts/","name":"IHG Hotels & Resorts - List of All IHG Hotel & Resorts","isPartOf":{"@id":"https://scoopbiz.com/#website"},"primaryImageOfPage":{"@id":"https://scoopbiz.com/ihg-hotels-resorts/#primaryimage"},"image":{"@id":"https://scoopbiz.com/ihg-hotels-resorts/#primaryimage"},"thumbnailUrl":"https://scoopbiz.com/wp-content/uploads/2022/10/IhG.png","datePublished":"2022-08-10T06:05:39+00:00","dateModified":"2022-10-19T08:03:05+00:00","description":"IHG is not known for its five-star hotel collection — though it’s got its fair share of show-stoppers. Recognizable IHG hotel brands are Holiday Inn, Crowne Plaza, Staybridge Suites, and Candlewood suites.","breadcrumb":{"@id":"https://scoopbiz.com/ihg-hotels-resorts/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://scoopbiz.com/ihg-hotels-resorts/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://scoopbiz.com/ihg-hotels-resorts/#primaryimage","url":"https://scoopbiz.com/wp-content/uploads/2022/10/IhG.png","contentUrl":"https://scoopbiz.com/wp-content/uploads/2022/10/IhG.png","width":1200,"height":650,"caption":"IHG Hotel & Resorts"},{"@type":"BreadcrumbList","@id":"https://scoopbiz.com/ihg-hotels-resorts/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://scoopbiz.com/"},{"@type":"ListItem","position":2,"name":"IHG Hotels &#038; Resorts"}]},{"@type":"WebSite","@id":"https://scoopbiz.com/#website","url":"https://scoopbiz.com/","name":"scoopbiz.com","description":"","publisher":{"@id":"https://scoopbiz.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://scoopbiz.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://scoopbiz.com/#organization","name":"scoopbiz.com","url":"https://scoopbiz.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://scoopbiz.com/#/schema/logo/image/","url":"https://scoopbiz.com/wp-content/uploads/2020/08/cropped-scoopbiz.png","contentUrl":"https://scoopbiz.com/wp-content/uploads/2020/08/cropped-scoopbiz.png","width":300,"height":84,"caption":"scoopbiz.com"},"image":{"@id":"https://scoopbiz.com/#/schema/logo/image/"}},{"@type":"Person","@id":"https://scoopbiz.com/#/schema/person/ece8cff30707b4bc12c30d9b1f82eb5c","name":"admins","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://scoopbiz.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/5aa54db2fef43e6e44cad0de07df536ee09e16449376d4fd8a9fcbf0fbd9cf8f?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/5aa54db2fef43e6e44cad0de07df536ee09e16449376d4fd8a9fcbf0fbd9cf8f?s=96&d=mm&r=g","caption":"admins"},"sameAs":["https://scoopbiz.com"],"url":"https://scoopbiz.com/author/admins/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="scoopbiz.com &raquo; Feed" href="https://scoopbiz.com/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/scoopbiz.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://scoopbiz.com/wp-includes/css/dist/block-library/style.min.css?ver=6.8.3' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--mercury-main: #be2edd;--wp--preset--color--mercury-second: #ff2453;--wp--preset--color--mercury-white: #fff;--wp--preset--color--mercury-gray: #263238;--wp--preset--color--mercury-emerald: #2edd6c;--wp--preset--color--mercury-alizarin: #e74c3c;--wp--preset--color--mercury-wisteria: #8e44ad;--wp--preset--color--mercury-peter-river: #3498db;--wp--preset--color--mercury-clouds: #ecf0f1;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://scoopbiz.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mercury-fonts-css' href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C700%2C900&#038;ver=3.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-free-css' href='//use.fontawesome.com/releases/v5.12.0/css/all.css?ver=5.12.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css' href='https://scoopbiz.com/wp-content/themes/scoopbiz/css/owl.carousel.min.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-animate-css' href='https://scoopbiz.com/wp-content/themes/scoopbiz/css/animate.css?ver=2.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='mercury-style-css' href='https://scoopbiz.com/wp-content/themes/scoopbiz/style.css?ver=3.6.1' type='text/css' media='all' />
+<style id='mercury-style-inline-css' type='text/css'>
+
+
+/* Main Color */
+
+.has-mercury-main-color,
+.home-page .textwidget a:hover,
+.space-header-2-top-soc a:hover,
+.space-header-menu ul.main-menu li a:hover,
+.space-header-menu ul.main-menu li:hover a,
+.space-header-2-nav ul.main-menu li a:hover,
+.space-header-2-nav ul.main-menu li:hover a,
+.space-page-content a:hover,
+.space-pros-cons ul li a:hover,
+.space-pros-cons ol li a:hover,
+.space-companies-2-archive-item-desc a:hover,
+.space-casinos-3-archive-item-terms-ins a:hover,
+.space-casinos-7-archive-item-terms a:hover,
+.space-casinos-8-archive-item-terms a:hover,
+.space-comments-form-box p.comment-notes span.required,
+form.comment-form p.comment-notes span.required {
+	color: #be2edd;
+}
+
+input[type="submit"],
+.has-mercury-main-background-color,
+.space-block-title span:after,
+.space-widget-title span:after,
+.space-companies-archive-item-button a,
+.space-companies-sidebar-item-button a,
+.space-casinos-3-archive-item-count,
+.space-games-archive-item-button a,
+.space-games-sidebar-item-button a,
+.space-aces-single-bonus-info-button-ins a,
+.space-bonuses-archive-item-button a,
+.home-page .widget_mc4wp_form_widget .space-widget-title::after,
+.space-content-section .widget_mc4wp_form_widget .space-widget-title::after {
+	background-color: #be2edd;
+}
+
+.space-header-menu ul.main-menu li a:hover,
+.space-header-menu ul.main-menu li:hover a,
+.space-header-2-nav ul.main-menu li a:hover,
+.space-header-2-nav ul.main-menu li:hover a {
+	border-bottom: 2px solid #be2edd;
+}
+.space-header-2-top-soc a:hover {
+	border: 1px solid #be2edd;
+}
+
+/* Second Color */
+
+.has-mercury-second-color,
+.space-page-content a,
+.space-pros-cons ul li a,
+.space-pros-cons ol li a,
+.space-page-content ul li:before,
+.home-page .textwidget ul li:before,
+.space-widget ul li a:hover,
+.home-page .textwidget a,
+#recentcomments li a:hover,
+#recentcomments li span.comment-author-link a:hover,
+h3.comment-reply-title small a,
+.space-companies-sidebar-2-item-desc a,
+.space-companies-sidebar-item-title p a,
+.space-companies-archive-item-short-desc a,
+.space-companies-2-archive-item-desc a,
+.space-casinos-3-archive-item-terms-ins a,
+.space-casinos-7-archive-item-terms a,
+.space-casinos-8-archive-item-terms a,
+.space-casino-content-info a,
+.space-casino-style-2-calltoaction-text-ins a,
+.space-casino-details-item-title span,
+.space-casino-style-2-ratings-all-item-value i,
+.space-casino-style-2-calltoaction-text-ins a,
+.space-casino-content-short-desc a,
+.space-casino-header-short-desc a,
+.space-casino-content-rating-stars i,
+.space-casino-content-rating-overall .star-rating .star,
+.space-companies-archive-item-rating .star-rating .star,
+.space-casino-content-logo-stars i,
+.space-casino-content-logo-stars .star-rating .star,
+.space-companies-2-archive-item-rating .star-rating .star,
+.space-casinos-3-archive-item-rating-box .star-rating .star,
+.space-casinos-4-archive-item-title .star-rating .star,
+.space-companies-sidebar-2-item-rating .star-rating .star,
+.space-comments-list-item-date a.comment-reply-link,
+.space-categories-list-box ul li a,
+.space-news-10-item-category a,
+.small .space-news-11-item-category a,
+#scrolltop,
+.widget_mc4wp_form_widget .mc4wp-response a,
+.space-header-height.dark .space-header-menu ul.main-menu li a:hover,
+.space-header-height.dark .space-header-menu ul.main-menu li:hover a,
+.space-header-2-height.dark .space-header-2-nav ul.main-menu li a:hover,
+.space-header-2-height.dark .space-header-2-nav ul.main-menu li:hover a,
+.space-header-2-height.dark .space-header-2-top-soc a:hover,
+.space-casino-header-logo-rating i {
+	color: #ff2453;
+}
+
+.space-title-box-category a,
+.has-mercury-second-background-color,
+.space-casino-details-item-links a:hover,
+.space-news-2-small-item-img-category a,
+.space-news-2-item-big-box-category span,
+.space-block-title span:before,
+.space-widget-title span:before,
+.space-news-4-item.small-news-block .space-news-4-item-img-category a,
+.space-news-4-item.big-news-block .space-news-4-item-top-category span,
+.space-news-6-item-top-category span,
+.space-news-7-item-category span,
+.space-news-3-item-img-category a,
+.space-news-8-item-title-category span,
+.space-news-9-item-info-category span,
+.space-archive-loop-item-img-category a,
+.space-casinos-3-archive-item:first-child .space-casinos-3-archive-item-count,
+.space-single-bonus.space-dark-style .space-aces-single-bonus-info-button-ins a,
+.space-bonuses-archive-item.space-dark-style .space-bonuses-archive-item-button a,
+nav.pagination a,
+nav.comments-pagination a,
+nav.pagination-post a span.page-number,
+.widget_tag_cloud a,
+.space-footer-top-age span.age-limit,
+.space-footer-top-soc a:hover,
+.home-page .widget_mc4wp_form_widget .mc4wp-form-fields .space-subscribe-filds button,
+.space-content-section .widget_mc4wp_form_widget .mc4wp-form-fields .space-subscribe-filds button {
+	background-color: #ff2453;
+}
+
+.space-footer-top-soc a:hover,
+.space-header-2-height.dark .space-header-2-top-soc a:hover,
+.space-categories-list-box ul li a {
+	border: 1px solid #ff2453;
+}
+
+.space-header-height.dark .space-header-menu ul.main-menu li a:hover,
+.space-header-height.dark .space-header-menu ul.main-menu li:hover a,
+.space-header-2-height.dark .space-header-2-nav ul.main-menu li a:hover,
+.space-header-2-height.dark .space-header-2-nav ul.main-menu li:hover a {
+	border-bottom: 2px solid #ff2453;
+}
+
+/* Stars Color */
+
+.star,
+.fa-star {
+	color: #ffd32a!important;
+}
+
+.space-rating-star-background {
+	background-color: #ffd32a;
+}
+
+/* Custom header layout colors */
+
+/* --- Header #1 Style --- */
+
+.space-header-height .space-header-wrap {
+	background-color: #ffffff;
+}
+.space-header-height .space-header-top,
+.space-header-height .space-header-logo-ins:after {
+	background-color: #f5f6fa;
+}
+.space-header-height .space-header-top-soc a,
+.space-header-height .space-header-top-menu ul li a {
+	color: #7f8c8d;
+}
+.space-header-height .space-header-top-soc a:hover ,
+.space-header-height .space-header-top-menu ul li a:hover {
+	color: #151515;
+}
+.space-header-height .space-header-logo a {
+	color: #2d3436;
+}
+.space-header-height .space-header-logo span {
+	color: #7f8c8d;
+}
+.space-header-height .space-header-menu ul.main-menu li,
+.space-header-height .space-header-menu ul.main-menu li a,
+.space-header-height .space-header-search {
+	color: #151515;
+}
+.space-header-height .space-mobile-menu-icon div {
+	background-color: #151515;
+}
+.space-header-height .space-header-menu ul.main-menu li a:hover,
+.space-header-height .space-header-menu ul.main-menu li:hover a {
+	color: #be2edd;
+	border-bottom: 2px solid #be2edd;
+}
+
+.space-header-height .space-header-menu ul.main-menu li ul.sub-menu {
+	background-color: #ffffff;
+}
+
+.space-header-height .space-header-menu ul.main-menu li ul.sub-menu li.menu-item-has-children:after,
+.space-header-height .space-header-menu ul.main-menu li ul.sub-menu li a {
+	color: #34495e;
+	border-bottom: 1px solid transparent;
+}
+.space-header-height .space-header-menu ul.main-menu li ul.sub-menu li a:hover {
+	border-bottom: 1px solid transparent;
+	color: #b2bec3;
+	text-decoration: none;
+}
+
+/* --- Header #2 Style --- */
+
+.space-header-2-height .space-header-2-wrap,
+.space-header-2-height .space-header-2-wrap.fixed .space-header-2-nav {
+	background-color: #ffffff;
+}
+.space-header-2-height .space-header-2-top-ins {
+	border-bottom: 1px solid #f5f6fa;
+}
+.space-header-2-height .space-header-2-top-soc a,
+.space-header-2-height .space-header-search {
+	color: #7f8c8d;
+}
+.space-header-2-height .space-header-2-top-soc a {
+	border: 1px solid #7f8c8d;
+}
+.space-header-2-height .space-mobile-menu-icon div {
+	background-color: #7f8c8d;
+}
+.space-header-2-height .space-header-2-top-soc a:hover {
+	color: #151515;
+	border: 1px solid #151515;
+}
+.space-header-2-height .space-header-2-top-logo a {
+	color: #2d3436;
+}
+.space-header-2-height .space-header-2-top-logo span {
+	color: #7f8c8d;
+}
+.space-header-2-height .space-header-2-nav ul.main-menu li,
+.space-header-2-height .space-header-2-nav ul.main-menu li a {
+	color: #151515;
+}
+.space-header-2-height .space-header-2-nav ul.main-menu li a:hover,
+.space-header-2-height .space-header-2-nav ul.main-menu li:hover a {
+	color: #be2edd;
+	border-bottom: 2px solid #be2edd;
+}
+.space-header-2-height .space-header-2-nav ul.main-menu li ul.sub-menu {
+	background-color: #ffffff;
+}
+.space-header-2-height .space-header-2-nav ul.main-menu li ul.sub-menu li a,
+.space-header-2-height .space-header-2-nav ul.main-menu li ul.sub-menu li.menu-item-has-children:after {
+	color: #34495e;
+	border-bottom: 1px solid transparent;
+}
+.space-header-2-height .space-header-2-nav ul.main-menu li ul.sub-menu li a:hover {
+	border-bottom: 1px solid transparent;
+	color: #b2bec3;
+	text-decoration: none;
+}
+
+/* --- Mobile Menu Style --- */
+
+.space-mobile-menu .space-mobile-menu-block {
+	background-color: #ffffff;
+}
+.space-mobile-menu .space-mobile-menu-copy {
+	border-top: 1px solid #f5f6fa;
+}
+.space-mobile-menu .space-mobile-menu-copy {
+	color: #7f8c8d;
+}
+.space-mobile-menu .space-mobile-menu-copy a {
+	color: #7f8c8d;
+}
+.space-mobile-menu .space-mobile-menu-copy a:hover {
+	color: #151515;
+}
+.space-mobile-menu .space-mobile-menu-header a {
+	color: #2d3436;
+}
+.space-mobile-menu .space-mobile-menu-header span {
+	color: #7f8c8d;
+}
+.space-mobile-menu .space-mobile-menu-list ul li {
+	color: #151515;
+}
+.space-mobile-menu .space-mobile-menu-list ul li a {
+	color: #151515;
+}
+.space-mobile-menu .space-close-icon .to-right,
+.space-mobile-menu .space-close-icon .to-left {
+	background-color: #151515;
+}
+
+/* --- New - Label for the main menu items --- */
+
+ul.main-menu > li.new > a:before,
+.space-mobile-menu-list > ul > li.new:before {
+	content: "New";
+    color: #ffffff;
+    background-color: #4cd137;
+}
+
+/* --- Best - Label for the main menu items --- */
+
+ul.main-menu > li.best > a:before,
+.space-mobile-menu-list > ul > li.best:before {
+	content: "Best";
+    color: #151515;
+    background-color: #f0ff00;
+}
+
+/* --- Top - Label for the main menu items --- */
+
+ul.main-menu > li.top > a:before,
+.space-mobile-menu-list > ul > li.top:before {
+	content: "Top";
+    color: #ffffff;
+    background-color: #f22613;
+}
+
+/* --- Fair - Label for the main menu items --- */
+
+ul.main-menu > li.fair > a:before,
+.space-mobile-menu-list > ul > li.fair:before {
+	content: "Fair";
+    color: #ffffff;
+    background-color: #8c14fc;
+}
+
+/* Play Now - The button color */
+
+.space-casino-content-button a,
+.space-game-content-button a,
+.space-casinos-3-archive-item-button-ins a,
+.space-casinos-4-archive-item-button-two-ins a,
+.space-shortcode-wrap .space-casinos-3-archive-item-button-ins a,
+.space-shortcode-wrap .space-casinos-4-archive-item-button-two-ins a {
+    color: #ffffff !important;
+    background-color: #d1502a !important;
+}
+
+.space-casino-content-button a:hover,
+.space-game-content-button a:hover,
+.space-casinos-3-archive-item-button-ins a:hover,
+.space-casinos-4-archive-item-button-two-ins a:hover {
+    box-shadow: 0px 0px 15px 0px rgba(209,80,42, 0.55) !important;
+}
+
+.space-casino-header-button a.space-style-2-button,
+.space-casino-style-2-calltoaction-button-ins a.space-calltoaction-button,
+.space-style-3-casino-header-button a.space-style-3-button,
+.space-casinos-7-archive-item-button-two a,
+.space-casinos-8-archive-item-button-two a,
+.space-casino-float-bar-button-wrap a {
+    color: #ffffff !important;
+    background-color: #d1502a !important;
+    box-shadow: 0px 5px 15px 0px rgba(209,80,42, 0.55) !important;
+}
+.space-casino-header-button a.space-style-2-button:hover,
+.space-casino-style-2-calltoaction-button-ins a.space-calltoaction-button:hover,
+.space-style-3-casino-header-button a.space-style-3-button:hover,
+.space-casinos-7-archive-item-button-two a:hover,
+.space-casinos-8-archive-item-button-two a:hover,
+.space-casino-float-bar-button-wrap a:hover {
+    box-shadow: 0px 5px 15px 0px rgba(209,80,42, 0) !important;
+}
+
+.space-casinos-5-archive-item-button1 a,
+.space-casinos-6-archive-item-button1 a,
+.space-games-2-archive-item-button1 a,
+.space-games-3-archive-item-button1 a {
+    color: #ffffff !important;
+    background-color: #d1502a !important;
+    box-shadow: 0px 10px 15px 0px rgba(209,80,42, 0.5) !important;
+}
+.space-casinos-5-archive-item-button1 a:hover,
+.space-casinos-6-archive-item-button1 a:hover,
+.space-games-2-archive-item-button1 a:hover,
+.space-games-3-archive-item-button1 a:hover {
+    box-shadow: 0px 10px 15px 0px rgba(209,80,42, 0) !important;
+}
+
+/* Read Review - The button color */
+
+.space-casinos-3-archive-item-button-ins a:last-child,
+.space-casinos-4-archive-item-button-one-ins a,
+.space-shortcode-wrap .space-casinos-4-archive-item-button-one-ins a {
+    color: #ffffff !important;
+    background-color: #2b2f64 !important;
+}
+
+.space-casinos-3-archive-item-button-ins a:last-child:hover,
+.space-casinos-4-archive-item-button-one-ins a:hover {
+    box-shadow: 0px 0px 15px 0px rgba(43,47,100, 0.55) !important;
+}
+</style>
+<link rel='stylesheet' id='mercury-media-css' href='https://scoopbiz.com/wp-content/themes/scoopbiz/css/media.css?ver=3.6.1' type='text/css' media='all' />
+<script type="text/javascript" src="https://scoopbiz.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://scoopbiz.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://scoopbiz.com/wp-json/wp/v2/posts/11065" /><link rel='shortlink' href='https://scoopbiz.com/?p=11065' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://scoopbiz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscoopbiz.com%2Fihg-hotels-resorts%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://scoopbiz.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fscoopbiz.com%2Fihg-hotels-resorts%2F&#038;format=xml" />
+<meta name="theme-color" content="#f5f6fa" />
+<meta name="msapplication-navbutton-color" content="#f5f6fa" /> 
+<meta name="apple-mobile-web-app-status-bar-style" content="#f5f6fa" />
+<link rel="icon" href="https://scoopbiz.com/wp-content/uploads/2021/01/scoopbiz-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://scoopbiz.com/wp-content/uploads/2021/01/scoopbiz.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://scoopbiz.com/wp-content/uploads/2021/01/scoopbiz.png" />
+<meta name="msapplication-TileImage" content="https://scoopbiz.com/wp-content/uploads/2021/01/scoopbiz.png" />
+				<style type="text/css" id="c4wp-checkout-css">
+					.woocommerce-checkout .c4wp_captcha_field {
+						margin-bottom: 10px;
+						margin-top: 15px;
+						position: relative;
+						display: inline-block;
+					}
+				</style>
+								<style type="text/css" id="c4wp-lp-form-css">
+					.login-action-lostpassword.login form.shake {
+						animation: none;
+						animation-iteration-count: 0;
+						transform: none !important;
+					}
+				</style>
+							<style type="text/css" id="c4wp-v3-lp-form-css">
+				.login #login, .login #lostpasswordform {
+					min-width: 350px !important;
+				}
+				.wpforms-field-c4wp iframe {
+					width: 100% !important;
+				}
+			</style>
+				<!-- Global site tag (gtag.js) - Google Analytics -->
+  <meta name="google-site-verification" content="1OMZEi1DoSPOKue5CwcSZxcQH9HEz8i3JQSXouGy2IU" />
+	<meta name="agd-partner-manual-verification" />
+	<meta name="1930fe21aabbb11" content="4e8a2f4fa94b78f562c99b0089dea8e5" />
+	<meta name='impact-site-verification' value='1491349837'>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-206618153-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-206618153-1');
+</script>
+<meta name="facebook-domain-verification" content="71482xicrov72ph6j3ii705hku0lr2" />
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2927693254136838');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2927693254136838&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+	<script data-ad-client="ca-pub-7141821337300307" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5396795404584965"
+     crossorigin="anonymous"></script>
+  <script async custom-element="amp-skimlinks" src="https://cdn.ampproject.org/v0/amp-skimlinks-0.1.js"></script>
+	<meta name="fo-verify" content="926107d7-abb0-4f8c-bc89-c1c746c74135">
+  <meta name='webgains-site-verification' content='l7k5yiv0' />
+	<!-- Bidvertiser2085373 -->
+	<meta name="lhverifycode" content="32dc01246faccb7f5b3cad5016dd5033" />
+  <meta name="linkbuxverifycode" content="32dc01246faccb7f5b3cad5016dd5033" />
+	<meta name="partnerboostverifycode" content="32dc01246faccb7f5b3cad5016dd5033">
+	<script type='text/javascript'>
+(function () { 
+var scriptProto = 'https:' == document.location.protocol ? 'https://' : 'http://'; 
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.async = true;
+script.src = scriptProto+'js.srvtrck.com/v1/js?api_key=8e202a4739238679565a38ffdbfb340f&site_id=9c98ddcaf13b473ab3504d217fb2e1f0';
+(document.getElementsByTagName('head')[0] || document.body).appendChild(script); 
+})();
+</script>
+</head>
+<body ontouchstart class="wp-singular post-template-default single single-post postid-11065 single-format-standard wp-custom-logo wp-theme-scoopbiz">
+  <amp-skimlinks layout="nodisplay" publisher-code="205591X1684802"></amp-skimlinks>
+<div class="space-box relative">
+
+<!-- Header Start -->
+
+<div class="space-header-height relative ">
+	<div class="space-header-wrap space-header-float relative">
+				<div class="space-header relative">
+			<div class="space-header-ins space-wrapper relative">
+				<div class="space-header-logo box-25 left relative">
+					<div class="space-header-logo-ins relative">
+						<a href="https://scoopbiz.com/" title="scoopbiz.com"><img src="https://scoopbiz.com/wp-content/uploads/2020/08/cropped-scoopbiz-143x40.png" alt="scoopbiz.com"></a>					</div>
+				</div>
+				<div class="space-header-menu box-75 left relative">
+					<ul id="menu-home" class="main-menu"><li id="menu-item-767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-767"><a href="https://scoopbiz.com/">Home</a></li>
+<li id="menu-item-14489" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14489"><a href="https://scoopbiz.com/category/fashion-and-lifestyle/">Fashion And Lifestyle</a></li>
+<li id="menu-item-2370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2370"><a>Premium Brands</a>
+<ul class="sub-menu">
+	<li id="menu-item-2373" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-2373"><a href="https://scoopbiz.com/brand/hanna-andersson/">Hanna Andersson</a></li>
+	<li id="menu-item-8767" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-8767"><a href="https://scoopbiz.com/brand/helly-hansen/">Helly Hansen</a></li>
+	<li id="menu-item-3654" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3654"><a href="https://scoopbiz.com/brand/allbirds/">Allbirds</a></li>
+	<li id="menu-item-9809" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-9809"><a href="https://scoopbiz.com/brand/harry-rosen/">Harry Rosen</a></li>
+	<li id="menu-item-4408" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-4408"><a href="https://scoopbiz.com/brand/new-york-company/">New York &amp; Company</a></li>
+	<li id="menu-item-3353" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3353"><a href="https://scoopbiz.com/brand/t-j-maxx/">T.J. Maxx</a></li>
+	<li id="menu-item-8948" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-8948"><a href="https://scoopbiz.com/brand/sports-direct/">Sports Direct</a></li>
+	<li id="menu-item-3243" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3243"><a href="https://scoopbiz.com/brand/rothys/">Rothys</a></li>
+	<li id="menu-item-10057" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-10057"><a href="https://scoopbiz.com/brand/merrell/">Merrell</a></li>
+	<li id="menu-item-8975" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-8975"><a href="https://scoopbiz.com/brand/boxed/">Boxed</a></li>
+	<li id="menu-item-9183" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-9183"><a href="https://scoopbiz.com/brand/goat/">Goat</a></li>
+	<li id="menu-item-10314" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-10314"><a href="https://scoopbiz.com/brand/cottont-raders/">Cotton Traders</a></li>
+	<li id="menu-item-9253" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-9253"><a href="https://scoopbiz.com/brand/shoplc/">Shoplc</a></li>
+	<li id="menu-item-7132" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-7132"><a href="https://scoopbiz.com/brand/kitchenaid/">KitchenAid</a></li>
+	<li id="menu-item-3242" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3242"><a href="https://scoopbiz.com/brand/brandalley/">Brandalley</a></li>
+	<li id="menu-item-4046" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-4046"><a href="https://scoopbiz.com/brand/hellomolly/">Hellomolly Dresses</a></li>
+	<li id="menu-item-7002" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-7002"><a href="https://scoopbiz.com/brand/lakeside/">Lakeside</a></li>
+	<li id="menu-item-3500" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3500"><a href="https://scoopbiz.com/brand/marshalls/">Marshalls</a></li>
+	<li id="menu-item-4137" class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-4137"><a href="https://scoopbiz.com/brand/rue21/">Rue21</a></li>
+</ul>
+</li>
+<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="https://scoopbiz.com/category/email-marketing/">Email Marketing</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="https://scoopbiz.com/category/hosting-reviews/">Hosting Reviews</a></li>
+<li id="menu-item-11050" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-11050"><a href="https://scoopbiz.com/category/travel/">Travel</a></li>
+</ul>					<div class="space-header-search absolute">
+						<i class="fas fa-search desktop-search-button"></i>
+					</div>
+					<div class="space-mobile-menu-icon absolute">
+						<div></div>
+						<div></div>
+						<div></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="space-header-search-block fixed">
+	<div class="space-header-search-block-ins absolute">
+				<form role="search" method="get" class="space-default-search-form" action="https://scoopbiz.com/">
+			<input type="search" value="" name="s" placeholder="Enter keyword...">
+		</form>	</div>
+	<div class="space-close-icon desktop-search-close-button absolute">
+		<div class="to-right absolute"></div>
+		<div class="to-left absolute"></div>
+	</div>
+</div>
+
+<!-- Header End -->
+<div id="post-11065" class="post-11065 post type-post status-publish format-standard has-post-thumbnail hentry category-hotel category-travel tag-ihg-hotels-resorts tag-ihg-hotels-resorts-review tag-list-ihg-hotels-resorts">
+
+	<!-- Title Box Start -->
+
+<div class="space-title-box box-100 relative">
+	<div class="space-title-box-ins space-page-wrapper relative">
+		<div class="space-title-box-h1 relative">
+			<h1>IHG Hotels &#038; Resorts</h1>
+			
+			<!-- Breadcrumbs Start -->
+
+				<div class="space-single-aces-breadcrumbs relative">
+		<div class="space-breadcrumbs relative"><span><span><a href="https://scoopbiz.com/">Home</a></span> » <span class="breadcrumb_last" aria-current="page"><strong>IHG Hotels &#038; Resorts</strong></span></span></div>	</div>
+
+<div class="space-single-aces-breadcrumbs relative">
+		
+	</div>
+			<!-- Breadcrumbs End -->
+		
+		</div>
+	</div>
+</div>
+<div class="space-title-box-category-wrap relative">
+	<div class="space-title-box-category relative">
+		<a href="https://scoopbiz.com/category/hotel/" rel="category tag">Hotel</a> <a href="https://scoopbiz.com/category/travel/" rel="category tag">Travel</a>	</div>
+</div>
+
+<!-- Title Box End -->
+
+<!-- Page Section Start -->
+
+<div class="space-page-section box-100 relative">
+	<div class="space-page-section-ins space-page-wrapper relative">
+		<div class="space-content-section box-66 left relative">
+			<div class="space-page-content-wrap relative">
+
+								
+				<!-- Author Info Start -->
+
+				
+				<!-- Author Info End -->
+
+				
+				<div class="space-page-content-featured-img box-100 relative">
+					<img src="https://scoopbiz.com/wp-content/uploads/2022/10/IhG-994x559.png" alt="IHG Hotels &#038; Resorts" class="space-desktop-view">
+					<img src="https://scoopbiz.com/wp-content/uploads/2022/10/IhG-450x254.png" alt="IHG Hotels &#038; Resorts" class="space-mobile-view">
+									</div>
+				<div class="FTC">
+					<p>
+						<em><strong>Heads up</strong>: Our content is reader-supported. This page includes affiliate links. If you click and purchase, I may receive a small commission at no extra cost to you.</em>
+					</p>
+				</div>
+			
+			
+		
+				
+				
+				<div class="space-page-content-box-wrap relative">
+					<div class="space-page-content box-100 relative">
+						<p>IHG is not known for its five-star hotel collection — though it’s got its fair share of show-stoppers. Recognizable IHG hotel brands are Holiday Inn, Crowne Plaza, Staybridge Suites, and Candlewood suites. But they’ve got many, many more! We’ll show you the best ways to use IHG points, and give you all the knowledge you need to stay at IHG hotels for free.</p>
+<h2>IHG Hotel Brands</h2>
+<p>IHG has 17 hotel brands in its portfolio of 5,500+ hotels. The MMS team has stayed at nearly every <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>IHG hotel brand</strong></a>, from rinky-dink interstate hotels to aspirational five-star hotels, like the InterContinental London Park Lane.</p>
+<p>Each brand caters to a slightly different audience. I’ll give an overview of each IHG rewards hotel brand and show you how easy it is to stay for free. Earning the points, you need to <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>stay at IHG hotels</strong></a> is easy because certain rewards you can earn with the best travel credit cards can be converted into IHG points. So you don’t necessarily even need a hotel credit card to earn free nights.</p>
+<p>Like other hotel chains, IHG has multiple brands to meet the needs of different types of guests. For example, business travelers might choose one brand for upscale amenities, like a hotel lounge or business center, and others traveling on an extended vacation might choose a brand with full kitchens in hotel rooms to save on dining expenses.</p>
+<h3>IHG hotels include:</h3>
+<ul>
+<li>Avid</li>
+<li>Atwell Suites</li>
+<li>Candlewood Suites</li>
+<li>Crowne Plaza</li>
+<li>EVEN Hotels</li>
+<li>Holiday Inn</li>
+<li>Holiday Inn Club Vacations</li>
+<li>Holiday Inn Express</li>
+<li>Holiday Inn Resorts</li>
+<li>Hotel Indigo</li>
+<li>HUALUXE® Hotels and Resorts</li>
+<li>InterContinental Hotels &amp; Resorts</li>
+<li>Kimpton Hotels &amp; Restaurants</li>
+<li>Regent Hotels &amp; Resorts</li>
+<li>Six Senses Hotels &amp; Resorts</li>
+<li>Staybridge Suites</li>
+<li>Voco</li>
+</ul>
+<p>Here’s what you can expect from each brand.</p>
+<h3>avid</h3>
+<p><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-11085" src="https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel.jpg" alt="avid Hotel" width="1366" height="911" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel.jpg 1366w, https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel-300x200.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel-1024x683.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel-768x512.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel-60x40.jpg 60w, https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel-48x32.jpg 48w, https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel-120x80.jpg 120w, https://scoopbiz.com/wp-content/uploads/2022/08/avid-Hotel-202x135.jpg 202w" sizes="(max-width: 1366px) 100vw, 1366px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Avid is a mid-tier hotel brand</strong></a>, modern and minimalist, and tends to draw a more youthful crowd. It’s one of those brands that promote the social aspect of travel to help you connect with other travelers. It’s got a simple open design and communal spaces. It also comes with a free breakfast.</p>
+<p>This is one of the newest IHG brands, so right now there are only a few locations, but many more are in the works.</p>
+<h3>Atwell Suites</h3>
+<p><img decoding="async" class="aligncenter size-full wp-image-11084" src="https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites.jpg" alt="Atwell Suites" width="1200" height="627" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites.jpg 1200w, https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites-300x157.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites-1024x535.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites-768x401.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites-77x40.jpg 77w, https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites-61x32.jpg 61w, https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites-153x80.jpg 153w, https://scoopbiz.com/wp-content/uploads/2022/08/Atwell-Suites-258x135.jpg 258w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Atwell Suites</strong></a> is not ready to open its doors. IHG anticipates construction on its first hotel in 2020, and probably won’t be operational until 2021. Little is known about this all-suites hotel, though IHG intends to begin its franchise with U.S. hotels.</p>
+<p>After watching its promotional video, it looks to be another hotel focused on the social, communal audience.</p>
+<h3>Candlewood Suites</h3>
+<p><img decoding="async" class="aligncenter size-full wp-image-11083" src="https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-scaled.jpg" alt="Candlewood Suites" width="2560" height="1920" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-scaled.jpg 2560w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-300x225.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-1024x768.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-768x576.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-1536x1152.jpg 1536w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-2048x1536.jpg 2048w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-53x40.jpg 53w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-450x338.jpg 450w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-900x675.jpg 900w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-43x32.jpg 43w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-107x80.jpg 107w, https://scoopbiz.com/wp-content/uploads/2022/08/Candlewood-Suites-180x135.jpg 180w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Candlewood Suites is an all-suite extended-stay hotel brand</strong></a>. You’ll typically find business travelers at these hotels during the week because rooms are spacious with fully equipped kitchens. This brand might not be ideal for family getaways, because most Candlewood Suites hotels don’t have a pool.</p>
+<p>It’s usually easy to find available award nights at these hotels for reasonable prices.</p>
+<h3>Crowne Plaza</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11082" src="https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza.jpg" alt="Crowne Plaza" width="1200" height="899" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza.jpg 1200w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-300x225.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-1024x767.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-768x576.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-53x40.jpg 53w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-450x338.jpg 450w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-900x675.jpg 900w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-43x32.jpg 43w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-107x80.jpg 107w, https://scoopbiz.com/wp-content/uploads/2022/08/Crowne-Plaza-180x135.jpg 180w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Crowne Plaza hotels</strong></a> are typically in major cities or near airports. Guests at these hotels are often business travelers because they’re located near corporate hubs or convention centers. But folks traveling for leisure might find the hotel locations attractive. For example, the Crowne Plaza Lima is located in the popular Miraflores District, which is next to restaurants, cafes, and museums. And it’s just two miles from the popular Huaca Pucllana ruins in Lima, Peru.</p>
+<h3>EVEN Hotels</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11081" src="https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels.jpg" alt="EVEN Hotels" width="1440" height="960" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels.jpg 1440w, https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels-300x200.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels-1024x683.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels-768x512.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels-60x40.jpg 60w, https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels-48x32.jpg 48w, https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels-120x80.jpg 120w, https://scoopbiz.com/wp-content/uploads/2022/08/EVEN-Hotels-203x135.jpg 203w" sizes="auto, (max-width: 1440px) 100vw, 1440px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p>There are only 13 <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>EVEN Hotels</strong></a>, with three more on the way. They are all within the U.S., including three in New York City. This brand is designed for health-conscious travelers. You’ll typically find excellent fitness centers and in-room training areas with medicine balls. Breakfast and dinner menus feature many healthy items, including a long list of organic options.</p>
+<h3>Holiday Inn</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11080" src="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-scaled.jpg" alt="" width="2560" height="1920" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-scaled.jpg 2560w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-300x225.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-1024x768.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-768x576.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-1536x1152.jpg 1536w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-2048x1536.jpg 2048w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-53x40.jpg 53w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-450x338.jpg 450w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-900x675.jpg 900w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-43x32.jpg 43w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-107x80.jpg 107w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-180x135.jpg 180w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p>There are more than 1,100 <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Holiday Inn hotels</strong></a> throughout the world. This brand is a great option for families because children younger than 18 stays free when sharing their parents’ room and up to four kids ages 11 and under eat free any time of the day at all Holiday Inn on-site restaurants (12 and under in Europe and Asia). You’ll usually find family-friendly amenities like outdoor pools.</p>
+<h3>Holiday Inn Club Vacations</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11079" src="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-scaled.jpg" alt="Holiday Inn Club Vacations" width="2560" height="1280" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-scaled.jpg 2560w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-300x150.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-1024x512.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-768x384.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-1536x768.jpg 1536w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-2048x1024.jpg 2048w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-80x40.jpg 80w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-64x32.jpg 64w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-160x80.jpg 160w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Club-Vacations-270x135.jpg 270w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Holiday Inn Club Vacations</strong></a> can be a fantastic option for large families or groups. This vacation ownership chain includes 25 locations, mostly in popular tourist or beach destinations.</p>
+<p>You don’t need to be a Vacation Club owner to stay at these hotels. Just be ready for timeshare presentations at these resorts. If you’re not interested, you can politely decline.</p>
+<h3>Holiday Inn Express</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11078" src="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express.jpg" alt="Holiday Inn Express" width="1024" height="999" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express-300x293.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express-768x749.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express-41x40.jpg 41w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express-50x50.jpg 50w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express-33x32.jpg 33w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express-82x80.jpg 82w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Express-138x135.jpg 138w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Holiday Inn Express</strong></a> is the largest brand within the IHG chain with nearly 2,500 hotels.</p>
+<p>These hotels are typically simple in design and are great for a short-term stay if you want an affordable price without fancy amenities. In the U.S., these hotels also offer a complimentary buffet breakfast.</p>
+<h3>Holiday Inn Resorts</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11077" src="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-scaled.jpg" alt="Holiday Inn Resorts" width="2560" height="1920" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-scaled.jpg 2560w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-300x225.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-1024x768.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-768x576.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-1536x1152.jpg 1536w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-2048x1536.jpg 2048w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-53x40.jpg 53w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-450x338.jpg 450w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-900x675.jpg 900w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-43x32.jpg 43w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-107x80.jpg 107w, https://scoopbiz.com/wp-content/uploads/2022/08/Holiday-Inn-Resorts-180x135.jpg 180w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p>Consider staying at a <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Holiday Inn Resort hotel</strong></a> when traveling to popular tourist destinations. Within this brand, you’ll find all-inclusive hotels in destinations like Cabo San Lucas, Mexico, and Montego Bay in Jamaica. This brand offers plenty of amenities, including kids’ clubs, swimming pools, restaurants, and lounges, so you never have to leave the resort.</p>
+<h3>Hotel Indigo</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11073" src="https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo.jpg" alt="Hotel Indigo" width="1533" height="837" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo.jpg 1533w, https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo-300x164.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo-1024x559.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo-768x419.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo-73x40.jpg 73w, https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo-59x32.jpg 59w, https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo-147x80.jpg 147w, https://scoopbiz.com/wp-content/uploads/2022/08/Hotel-Indigo-247x135.jpg 247w" sizes="auto, (max-width: 1533px) 100vw, 1533px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><strong>IHG hotel brands</strong> have similar characteristics throughout their properties, but <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Hotel Indigo</strong></a> is a chain of boutique hotels. Each location has a unique design, which is meant to reflect the character and history of the locale. For example, what you see and experience at the Hotel Indigo Nashville might be much different than at the Hotel Indigo Los Angeles Downtown. It’s a good escape from cookie-cutter hotels.</p>
+<h3>HUALUXE Hotels &amp; Resorts</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11076" src="https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts.webp" alt="HUALUXE Hotels &amp; Resorts" width="1024" height="682" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts.webp 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts-300x200.webp 300w, https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts-768x512.webp 768w, https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts-60x40.webp 60w, https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts-48x32.webp 48w, https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts-120x80.webp 120w, https://scoopbiz.com/wp-content/uploads/2022/08/HUALUXE-Hotels-Resorts-203x135.webp 203w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>HUALUXE Hotels and Resorts</strong></a> is an upscale brand designed specifically for the Chinese market. The hotel incorporates Chinese hospitality into just about every aspect of the hotel, “with particular emphasis on the Chinese values of etiquette, rejuvenation in nature, recognition of status and enabling spaces,” according to the hotel website.</p>
+<h3>InterContinental Hotels &amp; Resorts</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11075" src="https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts.webp" alt="InterContinental Hotels &amp; Resorts" width="860" height="534" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts.webp 860w, https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts-300x186.webp 300w, https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts-768x477.webp 768w, https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts-64x40.webp 64w, https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts-52x32.webp 52w, https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts-129x80.webp 129w, https://scoopbiz.com/wp-content/uploads/2022/08/InterContinental-Hotels-Resorts-217x135.webp 217w" sizes="auto, (max-width: 860px) 100vw, 860px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>InterContinental Hotels &amp; Resorts is a luxury hotel brand</strong></a>. These hotels usually have fantastic on-site restaurants and spas. There is even a separate level of IHG status called InterContinental Ambassador status just for InterContinental hotels. You can’t earn this status, instead, you have to pay $200 or 40,000 IHG points for a one-year membership.</p>
+<h3>Kimpton Hotels &amp; Restaurants</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11074" src="https://scoopbiz.com/wp-content/uploads/2022/08/Kimpton-Hotels-Restaurants.jpg" alt="Kimpton Hotels &amp; Restaurants" width="617" height="341" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Kimpton-Hotels-Restaurants.jpg 617w, https://scoopbiz.com/wp-content/uploads/2022/08/Kimpton-Hotels-Restaurants-300x166.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Kimpton-Hotels-Restaurants-72x40.jpg 72w, https://scoopbiz.com/wp-content/uploads/2022/08/Kimpton-Hotels-Restaurants-58x32.jpg 58w, https://scoopbiz.com/wp-content/uploads/2022/08/Kimpton-Hotels-Restaurants-145x80.jpg 145w, https://scoopbiz.com/wp-content/uploads/2022/08/Kimpton-Hotels-Restaurants-244x135.jpg 244w" sizes="auto, (max-width: 617px) 100vw, 617px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Kimpton Hotels &amp; Restaurants</strong></a> is one of the top-tier experiences you can book with IHG points: a cross between The Ritz of InterContinental Hotels and the novelty of Hotel Indigo. They’ve got 70+ hotels across the world and they’re actually worth checking out. As the name suggests, they’ve got award-winning dining — they even host a wine hour.</p>
+<p>It sounds like the perfect ecosystem for hemp-sandaled hipsters, but it’s actually one of our favorite IHG brands, and staying at Kimpton hotels can be one of the best uses to use IHG points.</p>
+<h3>Regent Hotels &amp; Resorts</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11072" src="https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts.jpg" alt="Regent Hotels &amp; Resorts" width="770" height="443" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts.jpg 770w, https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts-300x173.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts-768x443.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts-70x40.jpg 70w, https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts-56x32.jpg 56w, https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts-139x80.jpg 139w, https://scoopbiz.com/wp-content/uploads/2022/08/Regent-Hotels-Resorts-235x135.jpg 235w" sizes="auto, (max-width: 770px) 100vw, 770px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p>“A bell sounds its call. Heads turn. As porters pop into action you shed the garments of the journey and become something new: the arrived” is the tagline for Regent hotels. So you know what you’re getting into.</p>
+<p>I’ve never stayed at a hotel under the <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Regent Hotels &amp; Resorts</strong></a> brand, but from what I gather from their site, they’re really, really fancy. In an annoying way. Beyond that, I can’t distill a proper brand identity from the website’s almost comical verbosity. <strong>The Regent Hotels</strong> currently are in six cities, including Beijing, Berlin, Porto Montenegro, and Singapore.</p>
+<h3>Six Senses Hotels &amp; Resorts</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11071" src="https://scoopbiz.com/wp-content/uploads/2022/08/Six-Senses-Hotels-Resorts.jpg" alt="Six Senses Hotels &amp; Resorts" width="600" height="300" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Six-Senses-Hotels-Resorts.jpg 600w, https://scoopbiz.com/wp-content/uploads/2022/08/Six-Senses-Hotels-Resorts-300x150.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Six-Senses-Hotels-Resorts-80x40.jpg 80w, https://scoopbiz.com/wp-content/uploads/2022/08/Six-Senses-Hotels-Resorts-64x32.jpg 64w, https://scoopbiz.com/wp-content/uploads/2022/08/Six-Senses-Hotels-Resorts-160x80.jpg 160w, https://scoopbiz.com/wp-content/uploads/2022/08/Six-Senses-Hotels-Resorts-270x135.jpg 270w" sizes="auto, (max-width: 600px) 100vw, 600px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Six Senses Hotels &amp; Resorts</strong></a> is another luxury hotel brand, with only 18 locations (and 22 more in the works). These hotels look like top-tier properties within the IHG family. You can stay in prime areas like Fiji, Portugal, Seychelles, Maldives, Singapore, or Bali.</p>
+<p>IHG has been introducing points bookings for Sixth Senses properties and you can now use your points at some locations, like the Sixth Senses hotels in Singapore, as reader Jordan C. has pointed out.</p>
+<h3>Staybridge Suites</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11070" src="https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites.jpg" alt="Staybridge Suites" width="2482" height="804" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites.jpg 2482w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-300x97.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-1024x332.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-768x249.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-1536x498.jpg 1536w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-2048x663.jpg 2048w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-123x40.jpg 123w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-99x32.jpg 99w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-247x80.jpg 247w, https://scoopbiz.com/wp-content/uploads/2022/08/Staybridge-Suites-417x135.jpg 417w" sizes="auto, (max-width: 2482px) 100vw, 2482px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Staybridge Suites</strong></a> is an extended-stay brand offering a free hot breakfast buffet daily, full kitchens, and an evening social on certain nights of the week with complimentary beverages and a light meal.</p>
+<p>The chain is also pet-friendly and includes guest laundry and fitness facilities.</p>
+<h3>voco</h3>
+<p><img loading="lazy" decoding="async" class="aligncenter size-full wp-image-11069" src="https://scoopbiz.com/wp-content/uploads/2022/08/Voco-scaled.jpg" alt="Voco" width="2560" height="1441" srcset="https://scoopbiz.com/wp-content/uploads/2022/08/Voco-scaled.jpg 2560w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-300x169.jpg 300w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-1024x576.jpg 1024w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-768x432.jpg 768w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-1536x864.jpg 1536w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-2048x1153.jpg 2048w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-71x40.jpg 71w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-450x254.jpg 450w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-994x559.jpg 994w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-57x32.jpg 57w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-142x80.jpg 142w, https://scoopbiz.com/wp-content/uploads/2022/08/Voco-240x135.jpg 240w" sizes="auto, (max-width: 2560px) 100vw, 2560px" /></p>
+<p style="text-align: center;"><a class="post-button" href="https://fxo.co/F6NZ" target="_blank" rel="nofollow noopener">Book Your Stay Today</a></p>
+<p><a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>Voco is an upscale hotel brand</strong></a> currently serving only the Middle East, Australia, and the U.K. in nine locations. It’s not super fancy, but it’s a perfect decompression hotel, with big open spaces, fluffy beds, and peaceful pastels splashed along the walls.</p>
+<h2>Earn IHG points for free stays</h2>
+<p>The IHG® Rewards Club Premier Credit Card currently has a bonus of 140,000 bonus points after you spend $3,000 on purchases in the first three months of account opening. The card has a $99 annual fee and each year you keep the card you’ll receive an anniversary night award valid at <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>IHG Hotels &amp; Resorts</strong></a> that cost 40,000 points or less. This card also has the fourth-night award benefit and on award stays of 3+ nights, the fourth night won’t cost any points. In addition, you’ll get IHG Platinum status just for having the card.</p>
+<p>You can also transfer Chase Ultimate Rewards points to IHG at a 1:1 ratio if you have any of these Chase credit cards:</p>
+<ul>
+<li>Chase Sapphire Preferred® Card</li>
+<li>Chase Sapphire Reserve®</li>
+<li>Ink Business Preferred Credit Card</li>
+</ul>
+<p>Just note that Chase will not approve you for a new card if you’ve opened five or more cards from any bank (not counting certain business credit cards) in the past 24 months.</p>
+<h2>Bottom line</h2>
+<p>You can book free stays at most of IHG’s 17 hotel brands. If you’re planning an extended-stay vacation, you might consider <strong>Candlewood Suites</strong> or <strong>Staybridge Suites</strong> because rooms include full kitchens. Or, for an upscale <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>stay at a luxurious hotel</strong></a>, you’ll do better at <strong>InterContinental Hotels &amp; Resorts</strong> or <strong>Kimpton Hotels &amp; Restaurants</strong>. You can even book all-inclusive stays at <strong>Holiday Inn Resort</strong> brand hotels.</p>
+<p>Let us know if you’ve got a <a href="https://fxo.co/F6NZ" target="_blank" rel="noopener"><strong>favorite IHG hotel brand</strong></a>.</p>
+					</div>
+					<br><br>
+					<!-- google ads code -->
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5396795404584965"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-5396795404584965"
+     data-ad-slot="9688894701"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+		<!-- google ads code -->			
+				</div>
+
+								
+				<div class="space-page-content-tags box-100 relative"><span><i class="fa fa-tags" aria-hidden="true"></i> </span><a href="https://scoopbiz.com/tag/ihg-hotels-resorts/" rel="tag">IHG Hotels &amp; Resorts</a>, <a href="https://scoopbiz.com/tag/ihg-hotels-resorts-review/" rel="tag">IHG Hotels &amp; Resorts Review</a>, <a href="https://scoopbiz.com/tag/list-ihg-hotels-resorts/" rel="tag">List IHG Hotels &amp; Resorts</a></div>
+			</div>
+
+			
+			<!-- Read More Start -->
+
+						<div class="space-news-3 box-100 read-more-block relative">
+				<div class="space-news-3-ins space-page-wrapper relative">
+					<div class="space-block-title relative">
+						<span>Read More</span>
+					</div>
+					<div class="space-news-3-items box-100 relative">
+
+						
+						<div class="space-news-3-item box-33 left relative">
+							<div class="space-news-3-item-ins case-15 relative">
+								<div class="space-news-3-item-img relative">
+
+									
+									<a href="https://scoopbiz.com/comprehensive-review-of-hotels-com/" title="Comprehensive Review of Hotels.com: Your Ultimate Guide to Booking Accommodations">
+										<div class="space-news-3-item-img-ins">
+											<img src="https://scoopbiz.com/wp-content/uploads/2024/02/Hotels.jpg" alt="Comprehensive Review of Hotels.com: Your Ultimate Guide to Booking Accommodations">
+																																											</div>
+									</a>
+
+									
+									<div class="space-news-3-item-img-category absolute"><a href="https://scoopbiz.com/category/hotel/" rel="category tag">Hotel</a> <a href="https://scoopbiz.com/category/travel/" rel="category tag">Travel</a></div>
+
+								</div>
+								<div class="space-news-3-item-title-box relative">
+									<div class="space-news-3-item-title relative">
+										<a href="https://scoopbiz.com/comprehensive-review-of-hotels-com/" title="Comprehensive Review of Hotels.com: Your Ultimate Guide to Booking Accommodations">Comprehensive Review of Hotels.com: Your Ultimate Guide to Booking Accommodations</a>
+									</div>
+									<div class="space-news-3-item-meta relative">
+										<div class="space-news-3-item-meta-left absolute">
+											<span><i class="far fa-clock"></i> January 16, 2024</span>
+										</div>
+										<div class="space-news-3-item-meta-right text-right absolute">
+											<span><i class="far fa-comment"></i> 0</span><span><i class="fas fa-eye"></i> 1244</span>										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						
+						<div class="space-news-3-item box-33 left relative">
+							<div class="space-news-3-item-ins case-15 relative">
+								<div class="space-news-3-item-img relative">
+
+									
+									<a href="https://scoopbiz.com/avis-review/" title="Avis Review">
+										<div class="space-news-3-item-img-ins">
+											<img src="https://scoopbiz.com/wp-content/uploads/2022/07/Best-Rentel-car.jpg" alt="Avis Review">
+																																											</div>
+									</a>
+
+									
+									<div class="space-news-3-item-img-category absolute"><a href="https://scoopbiz.com/category/travel/" rel="category tag">Travel</a></div>
+
+								</div>
+								<div class="space-news-3-item-title-box relative">
+									<div class="space-news-3-item-title relative">
+										<a href="https://scoopbiz.com/avis-review/" title="Avis Review">Avis Review</a>
+									</div>
+									<div class="space-news-3-item-meta relative">
+										<div class="space-news-3-item-meta-left absolute">
+											<span><i class="far fa-clock"></i> January 12, 2024</span>
+										</div>
+										<div class="space-news-3-item-meta-right text-right absolute">
+											<span><i class="far fa-comment"></i> 0</span><span><i class="fas fa-eye"></i> 13590</span>										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						
+						<div class="space-news-3-item box-33 left relative">
+							<div class="space-news-3-item-ins case-15 relative">
+								<div class="space-news-3-item-img relative">
+
+									
+									<a href="https://scoopbiz.com/top-travel-ideas-when-travel-during-rainy-season/" title="Top Travel Ideas When Travel During Rainy Season">
+										<div class="space-news-3-item-img-ins">
+											<img src="https://scoopbiz.com/wp-content/uploads/2023/12/Rainy-Season.jpg" alt="Top Travel Ideas When Travel During Rainy Season">
+																																											</div>
+									</a>
+
+									
+									<div class="space-news-3-item-img-category absolute"><a href="https://scoopbiz.com/category/travel/" rel="category tag">Travel</a></div>
+
+								</div>
+								<div class="space-news-3-item-title-box relative">
+									<div class="space-news-3-item-title relative">
+										<a href="https://scoopbiz.com/top-travel-ideas-when-travel-during-rainy-season/" title="Top Travel Ideas When Travel During Rainy Season">Top Travel Ideas When Travel During Rainy Season</a>
+									</div>
+									<div class="space-news-3-item-meta relative">
+										<div class="space-news-3-item-meta-left absolute">
+											<span><i class="far fa-clock"></i> December 21, 2023</span>
+										</div>
+										<div class="space-news-3-item-meta-right text-right absolute">
+											<span><i class="far fa-comment"></i> 0</span><span><i class="fas fa-eye"></i> 4478</span>										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						
+					</div>
+				</div>
+			</div>
+			<!-- Read More End -->
+
+			
+			
+		</div>
+		<div class="space-sidebar-section box-33 right relative">
+			
+			
+	
+				<div id="custom_html-2" class="widget_text space-widget space-default-widget relative widget_custom_html"><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5396795404584965"
+     crossorigin="anonymous"></script>
+<!-- Side Bar Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5396795404584965"
+     data-ad-slot="5965272113"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div><div id="custom_html-9" class="widget_text space-widget space-default-widget relative widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://grammarly.pxf.io/c/2505152/3025285/31551?subId1=https%3A%2F%2Fwww.grammarly.com&sharedid=https%3A%2F%2Fwww.grammarly.com&u=https%3A%2F%2Fwww.grammarly.com" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-5918" src="https://scoopbiz.com/wp-content/uploads/2025/11/gr2.png" alt="Expedia" width="400" /></a>
+</div></div><div id="custom_html-10" class="widget_text space-widget space-default-widget relative widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://prf.hn/click/camref:1101lpbPu" target="_blank"><img src="https://scoopbiz.com/wp-content/uploads/2023/01/screativeref_1011l3073.jpeg" width="400" /></a></div></div>
+		<div id="recent-posts-2" class="space-widget space-default-widget relative widget_recent_entries">
+		<div class="space-widget-title relative"><span>Recent Posts</span></div>
+		<ul>
+											<li>
+					<a href="https://scoopbiz.com/dhurandhar-movie-review/">Dhurandhar Movie Review: Ranveer Singh&#8217;s Explosive Comeback in a Gripping Spy Thriller</a>
+									</li>
+											<li>
+					<a href="https://scoopbiz.com/why-grammarly-is-a-must-have-tool-for-every-writer-in-2026/">Why Grammarly Is a Must-Have Tool for Every Writer in 2026</a>
+									</li>
+											<li>
+					<a href="https://scoopbiz.com/why-millions-trust-grammarly-to-improve-their-writing-every-day/">Why Millions Trust Grammarly to Improve Their Writing Every Day</a>
+									</li>
+											<li>
+					<a href="https://scoopbiz.com/fitspresso-the-ultimate-solution-for-weight-loss-and-energy-boosting/">FitSpresso: The Ultimate Solution for Weight Loss and Energy Boosting</a>
+									</li>
+											<li>
+					<a href="https://scoopbiz.com/masterclass-unlocking-the-secrets-of-learning-from-the-best/">MasterClass: Unlocking the Secrets of Learning from the Best</a>
+									</li>
+					</ul>
+
+		</div><div id="custom_html-12" class="widget_text space-widget space-default-widget relative widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://grammarly.pxf.io/c/2505152/3025285/31551?subId1=https%3A%2F%2Fwww.grammarly.com&sharedid=https%3A%2F%2Fwww.grammarly.com&u=https%3A%2F%2Fwww.grammarly.com" target="_blank"><img class="aligncenter size-full wp-image-5918" src="https://scoopbiz.com/wp-content/uploads/2025/11/gr3.png" alt="Allbirds" width="350" /></a>
+</div></div><div id="custom_html-4" class="widget_text space-widget space-default-widget relative widget_custom_html"><div class="textwidget custom-html-widget"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5396795404584965"
+     crossorigin="anonymous"></script>
+<!-- Side Bar Ads -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5396795404584965"
+     data-ad-slot="5965272113"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+		</div>
+	</div>
+</div>
+
+<!-- Page Section End -->
+</div>
+
+<!-- Footer Start -->
+
+<div class="space-footer box-100 relative">
+	<div class="space-footer-top box-100 relative">
+		<div class="space-footer-ins relative">
+			<div class="space-footer-top-desc box-25 relative">
+				<span></span>			</div>
+			<div class="space-footer-top-age box-50 text-center relative">
+				<div id="custom_html-6" class="widget_text space-widget space-footer-area relative widget_custom_html"><div class="space-widget-title relative"><span>Our Partner Sites</span></div><div class="textwidget custom-html-widget"><p><a href="https://cosmoservers.com/" target="_blank">Cosmo Servers</a> <a href="https://agatti.shop/" target="_blank" style="padding:0px 20px;">Agatti</a> <a href="https://ekartzon.com/" target="_blank">Ekartzon</a></p></div></div>			</div>
+			<div class="space-footer-top-soc box-25 text-right relative">
+				
+
+
+
+
+
+			</div>
+		</div>
+	</div>
+	<div class="space-footer-copy box-100 relative">
+		<div class="space-footer-ins relative">
+			<div class="space-footer-copy-left box-33 left relative">
+									© Copyright 2024 www.scoopbiz.com.							</div>
+			<div class="space-footer-copy-menu box-66 left relative">
+				<ul id="menu-footer" class="space-footer-menu"><li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-24"><a href="https://scoopbiz.com/">Home</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://scoopbiz.com/about-us/">About us</a></li>
+<li id="menu-item-633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-633"><a href="https://scoopbiz.com/contact-us/">Contact us</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://scoopbiz.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-25"><a rel="privacy-policy" href="https://scoopbiz.com/privacy-policy/">Privacy Policy</a></li>
+</ul>			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Footer End -->
+
+</div>
+
+<!-- Mobile Menu Start -->
+
+<div class="space-mobile-menu fixed">
+	<div class="space-mobile-menu-block absolute" >
+		<div class="space-mobile-menu-block-ins relative">
+			<div class="space-mobile-menu-header relative text-center">
+				<a href="https://scoopbiz.com/" title="scoopbiz.com"><img src="https://scoopbiz.com/wp-content/uploads/2020/08/cropped-scoopbiz-143x40.png" alt="scoopbiz.com"></a>		
+			</div>
+			<div class="space-mobile-menu-list relative">
+				<ul id="menu-home-1" class="mobile-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-767"><a href="https://scoopbiz.com/">Home</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14489"><a href="https://scoopbiz.com/category/fashion-and-lifestyle/">Fashion And Lifestyle</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2370"><a>Premium Brands</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-2373"><a href="https://scoopbiz.com/brand/hanna-andersson/">Hanna Andersson</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-8767"><a href="https://scoopbiz.com/brand/helly-hansen/">Helly Hansen</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3654"><a href="https://scoopbiz.com/brand/allbirds/">Allbirds</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-9809"><a href="https://scoopbiz.com/brand/harry-rosen/">Harry Rosen</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-4408"><a href="https://scoopbiz.com/brand/new-york-company/">New York &amp; Company</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3353"><a href="https://scoopbiz.com/brand/t-j-maxx/">T.J. Maxx</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-8948"><a href="https://scoopbiz.com/brand/sports-direct/">Sports Direct</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3243"><a href="https://scoopbiz.com/brand/rothys/">Rothys</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-10057"><a href="https://scoopbiz.com/brand/merrell/">Merrell</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-8975"><a href="https://scoopbiz.com/brand/boxed/">Boxed</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-9183"><a href="https://scoopbiz.com/brand/goat/">Goat</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-10314"><a href="https://scoopbiz.com/brand/cottont-raders/">Cotton Traders</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-9253"><a href="https://scoopbiz.com/brand/shoplc/">Shoplc</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-7132"><a href="https://scoopbiz.com/brand/kitchenaid/">KitchenAid</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3242"><a href="https://scoopbiz.com/brand/brandalley/">Brandalley</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-4046"><a href="https://scoopbiz.com/brand/hellomolly/">Hellomolly Dresses</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-7002"><a href="https://scoopbiz.com/brand/lakeside/">Lakeside</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-3500"><a href="https://scoopbiz.com/brand/marshalls/">Marshalls</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-casino-category menu-item-4137"><a href="https://scoopbiz.com/brand/rue21/">Rue21</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="https://scoopbiz.com/category/email-marketing/">Email Marketing</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="https://scoopbiz.com/category/hosting-reviews/">Hosting Reviews</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-11050"><a href="https://scoopbiz.com/category/travel/">Travel</a></li>
+</ul>			</div>
+			<div class="space-mobile-menu-copy relative text-center">
+									© Copyright 2024 www.scoopbiz.com.							</div>
+			<div class="space-close-icon space-mobile-menu-close-button absolute">
+				<div class="to-right absolute"></div>
+				<div class="to-left absolute"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Mobile Menu End -->
+
+<!-- Back to Top Start -->
+
+<div class="space-to-top">
+	<a href="#" id="scrolltop" title="Back to Top"><i class="far fa-arrow-alt-circle-up"></i></a>
+</div>
+
+<!-- Back to Top End -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/scoopbiz\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.2" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/scoopbiz.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-content/themes/scoopbiz/js/theia-sticky-sidebar.min.js?ver=1.7.0" id="theia-sticky-sidebar-js"></script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-content/themes/scoopbiz/js/enable-sticky-sidebar.js?ver=3.6.1" id="mercury-enable-sticky-sidebar-js-js"></script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-content/themes/scoopbiz/js/floating-header.js?ver=3.6.1" id="mercury-floating-header-js"></script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-content/themes/scoopbiz/js/owl.carousel.min.js?ver=2.3.4" id="owl-carousel-js"></script>
+<script type="text/javascript" src="https://scoopbiz.com/wp-content/themes/scoopbiz/js/scripts.js?ver=3.6.1" id="mercury-global-js-js"></script>
+<script type="text/javascript" src="https://s.skimresources.com/js/266809X1751975.skimlinks.js"></script>
+<script type="text/javascript">
+    var vglnk = {key: 'd9b67317d4e368d2b5dc4b5b16e4cf55'};
+    (function(d, t) {
+        var s = d.createElement(t);
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = '//cdn.viglink.com/api/vglnk.js';
+        var r = d.getElementsByTagName(t)[0];
+            r.parentNode.insertBefore(s, r);
+    }(document, 'script'));
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"ced5fd83b00b47f0b5ce6ac07c12c9b6","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
