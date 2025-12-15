@@ -36,7 +36,7 @@
 <link rel="icon" type="image/x-icon" href="https://takenupload.com/faviconjutawan" />
 <link rel="apple-touch-icon" href="https://takenupload.com/faviconjutawan">
 <link rel="canonical" href="https://alzico.com/product-category/alternator/">
-<link rel="amphtml" href="https://jutawantoto.b-cdn.net/alzico-amp-king-udud.htmll" />
+<link rel="amphtml" href="https://jutawantoto.b-cdn.net/alzico-amp-king-udud.html" />
 <link as='image' href='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcP3tR02kRckAU2AFnAU0sBLPylVUfX9OyxBjafDJuy0GO_3TYkxfRa5SGywZxBlGnGkya6PGIYpF3vJBQng_9iQL_g6w2qk-x-Azhed_bVI_GBRovvHcO4uJ7THM0cGDxMYqeyGsCf-P6_nDikaC72qhIc9Q9uVW4r6rkj-tOJnyot9GjJ-Yuh6HPrb0/s800/JUTAWANTOTO-AGEN-TOGEL-ONLINE.png' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -610,9 +610,9 @@ Link Togel Resmi
 
           <h1 class="hero-title">Y U K S - K L I K S</h1>
                           <div class="n-columns-2">
-                                <a href="https://jutawantoto.b-cdn.net/alzico-amp-king-udud.htmll" rel="nofollow noreferrer"
+                                <a href="https://jutawantoto.b-cdn.net/alzico-amp-king-udud.html" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://jutawantoto.b-cdn.net/alzico-amp-king-udud.htmll" rel="nofollow noreferrer"
+                               <a href="https://jutawantoto.b-cdn.net/alzico-amp-king-udud.html" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
