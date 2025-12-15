@@ -1,0 +1,1894 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://alzico.com/xmlrpc.php">
+
+	<title>Alternator &#8211; Alzico</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Alzico &raquo; Feed" href="https://alzico.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alzico &raquo; Comments Feed" href="https://alzico.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Alzico &raquo; Alternator Category Feed" href="https://alzico.com/product-category/alternator/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style><link rel='stylesheet' id='wc-blocks-style-css' href='https://alzico.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.7.0' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--cardo: Cardo;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='brands-styles-css' href='https://alzico.com/wp-content/plugins/woocommerce/assets/css/brands.css?ver=9.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://alzico.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woodmart-style-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/base.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-helpers-wpb-elem-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/helpers-wpb-elem.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-widget-wd-recent-posts-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/widget-wd-recent-posts.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-el-menu-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/el-menu.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-widget-nav-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/widget-nav.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-widget-wd-layered-nav-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-wd-layered-nav.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-mod-swatches-base-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-swatches-base.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-mod-swatches-filter-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-swatches-filter.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-widget-product-list-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-product-list.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-widget-slider-price-filter-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-slider-price-filter.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-wpcf7-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/int-wpcf7.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-revolution-slider-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/int-rev-slider.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-wpbakery-base-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/int-wpb-base.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-wpbakery-base-deprecated-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/int-wpb-base-deprecated.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woocommerce-base-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woocommerce-base.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-mod-star-rating-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/mod-star-rating.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-el-track-order-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-el-track-order.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woocommerce-block-notices-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-block-notices.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-widget-active-filters-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-active-filters.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-shop-predefined-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-predefined.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-shop-el-products-per-page-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-products-per-page.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-shop-page-title-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-page-title.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-mod-shop-loop-head-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-shop-loop-head.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-shop-el-order-by-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-order-by.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-shop-el-products-view-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-products-view.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-wp-blocks-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/wp-blocks.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://alzico.com/wp-content/themes/woodmart-child/style.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-base-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-base.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-mod-tools-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/mod-tools.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-elements-base-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-base.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-social-icons-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/el-social-icons.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-search-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-search.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-search-form-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-search-form.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-wd-search-results-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/wd-search-results.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-wd-search-form-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/wd-search-form.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-wd-search-cat-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/wd-search-cat.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-mod-login-form-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-login-form.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-my-account-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-my-account.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-cart-side-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-cart-side.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-cart-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-cart.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-widget-shopping-cart-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-shopping-cart.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-mobile-nav-dropdown-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-mobile-nav-dropdown.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-el-category-more-btn-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-category-more-btn.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-categories-nav-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-category-nav.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-mod-nav-vertical-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/mod-nav-vertical.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-mod-nav-vertical-design-default-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/mod-nav-vertical-design-default.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-info-box-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/el-info-box.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-info-box-style-shadow-and-bg-hover-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/el-info-box-style-shadow-and-bg-hover.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-page-title-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/page-title.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-off-canvas-sidebar-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/opt-off-canvas-sidebar.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-el-menu-wpb-elem-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/el-menu-wpb-elem.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-shop-filter-area-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-filters-area.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-opt-title-limit-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-opt-title-limit.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-product-loop-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-product-loop-quick-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-product-loop-quick.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-mod-add-btn-replace-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-add-btn-replace.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-categories-loop-default-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-categories-loop-default-old.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-categories-loop-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-categories-loop.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-categories-loop-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-categories-loop-old.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-sticky-loader-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/mod-sticky-loader.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-mfp-popup-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-mod-product-labels-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-woo-mod-product-labels-round-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-footer-base-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/footer-base.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-swiper-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/lib-swiper.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-brands-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/el-brand.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-scroll-top-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/opt-scrolltotop.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-header-my-account-sidebar-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-my-account-sidebar.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wd-shop-off-canvas-sidebar-css' href='https://alzico.com/wp-content/themes/woodmart/css/parts/opt-shop-off-canvas-sidebar.min.css?ver=8.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='xts-google-fonts-css' href='https://fonts.googleapis.com/css?family=Lato%3A400%2C700%7CPoppins%3A400%2C600%2C500&#038;ver=8.0.6' type='text/css' media='all' />
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.7.0" id="jquery-blockui-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https://alzico.com/cart/","is_cart":"","cart_redirect_after_add":"no"};
+//# sourceURL=wc-add-to-cart-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.7.0" id="wc-add-to-cart-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.7.0" id="js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Show password","i18n_password_hide":"Hide password"};
+//# sourceURL=woocommerce-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.7.0" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js?ver=8.1" id="vc_woocommerce-add-to-cart-js-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/libs/device.min.js?ver=8.0.6" id="wd-device-library-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/scrollBar.min.js?ver=8.0.6" id="wd-scrollbar-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://alzico.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://alzico.com/wp-json/wp/v2/product_cat/69" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://alzico.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9" />
+<meta name="generator" content="WooCommerce 9.7.0" />
+					<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+										<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.7.24 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style class='wp-fonts-local' type='text/css'>
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://alzico.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://alzico.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://alzico.com/wp-content/uploads/2021/09/cropped-logo-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://alzico.com/wp-content/uploads/2021/09/cropped-logo-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://alzico.com/wp-content/uploads/2021/09/cropped-logo-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://alzico.com/wp-content/uploads/2021/09/cropped-logo-270x270.jpg" />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+<style>
+		
+		</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>			<style id="wd-style-header_528910-css" data-type="wd-style-header_528910">
+				:root{
+	--wd-top-bar-h: 40px;
+	--wd-top-bar-sm-h: 38px;
+	--wd-top-bar-sticky-h: .00001px;
+	--wd-top-bar-brd-w: .00001px;
+
+	--wd-header-general-h: 105px;
+	--wd-header-general-sm-h: 60px;
+	--wd-header-general-sticky-h: .00001px;
+	--wd-header-general-brd-w: 1px;
+
+	--wd-header-bottom-h: 52px;
+	--wd-header-bottom-sm-h: .00001px;
+	--wd-header-bottom-sticky-h: .00001px;
+	--wd-header-bottom-brd-w: 1px;
+
+	--wd-header-clone-h: 60px;
+
+	--wd-header-brd-w: calc(var(--wd-top-bar-brd-w) + var(--wd-header-general-brd-w) + var(--wd-header-bottom-brd-w));
+	--wd-header-h: calc(var(--wd-top-bar-h) + var(--wd-header-general-h) + var(--wd-header-bottom-h) + var(--wd-header-brd-w));
+	--wd-header-sticky-h: calc(var(--wd-top-bar-sticky-h) + var(--wd-header-general-sticky-h) + var(--wd-header-bottom-sticky-h) + var(--wd-header-clone-h) + var(--wd-header-brd-w));
+	--wd-header-sm-h: calc(var(--wd-top-bar-sm-h) + var(--wd-header-general-sm-h) + var(--wd-header-bottom-sm-h) + var(--wd-header-brd-w));
+}
+
+.whb-top-bar .wd-dropdown {
+	margin-top: 0px;
+}
+
+.whb-top-bar .wd-dropdown:after {
+	height: 10px;
+}
+
+
+
+
+:root:has(.whb-general-header.whb-border-boxed) {
+	--wd-header-general-brd-w: .00001px;
+}
+
+@media (max-width: 1024px) {
+:root:has(.whb-general-header.whb-hidden-mobile) {
+	--wd-header-general-brd-w: .00001px;
+}
+}
+
+:root:has(.whb-header-bottom.whb-border-boxed) {
+	--wd-header-bottom-brd-w: .00001px;
+}
+
+@media (max-width: 1024px) {
+:root:has(.whb-header-bottom.whb-hidden-mobile) {
+	--wd-header-bottom-brd-w: .00001px;
+}
+}
+
+.whb-header-bottom .wd-dropdown {
+	margin-top: 6px;
+}
+
+.whb-header-bottom .wd-dropdown:after {
+	height: 16px;
+}
+
+
+.whb-clone.whb-sticked .wd-dropdown:not(.sub-sub-menu) {
+	margin-top: 10px;
+}
+
+.whb-clone.whb-sticked .wd-dropdown:not(.sub-sub-menu):after {
+	height: 20px;
+}
+
+		
+.whb-top-bar {
+	background-color: rgba(0, 152, 70, 1);
+}
+
+.whb-general-header {
+	border-color: rgba(232, 232, 232, 1);border-bottom-width: 1px;border-bottom-style: solid;
+}
+.whb-wjlcubfdmlq3d7jvmt23 .menu-opener { background-color: rgba(0, 0, 0, 1); }.whb-wjlcubfdmlq3d7jvmt23.wd-more-cat:not(.wd-show-cat) .item-level-0:nth-child(n+12):not(:last-child) {
+				    display: none;
+				}.
+				wd-more-cat .item-level-0:nth-child(n+12) {
+				    animation: wd-fadeIn .3s ease both;
+				}
+.whb-aqdqeooe4ocvz1smiafu .wd-info-box:after {
+	background-color: rgba(218, 218, 218, 1);
+}
+.whb-header-bottom {
+	border-color: rgba(232, 232, 232, 1);border-bottom-width: 1px;border-bottom-style: solid;
+}
+			</style>
+						<style id="wd-style-theme_settings_default-css" data-type="wd-style-theme_settings_default">
+				@font-face {
+	font-weight: normal;
+	font-style: normal;
+	font-family: "woodmart-font";
+	src: url("//alzico.com/wp-content/themes/woodmart/fonts/woodmart-font-1-400.woff2?v=8.0.6") format("woff2");
+}
+
+@font-face {
+	font-family: "star";
+	font-weight: 400;
+	font-style: normal;
+	src: url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix") format("embedded-opentype"), url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"), url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"), url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+}
+
+@font-face {
+	font-family: "WooCommerce";
+	font-weight: 400;
+	font-style: normal;
+	src: url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?#iefix") format("embedded-opentype"), url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff") format("woff"), url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf") format("truetype"), url("//alzico.com/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg#WooCommerce") format("svg");
+}
+
+:root {
+	--wd-text-font: "Lato", Arial, Helvetica, sans-serif;
+	--wd-text-font-weight: 400;
+	--wd-text-color: #777777;
+	--wd-text-font-size: 14px;
+	--wd-title-font: "Poppins", Arial, Helvetica, sans-serif;
+	--wd-title-font-weight: 600;
+	--wd-title-color: #242424;
+	--wd-entities-title-font: "Poppins", Arial, Helvetica, sans-serif;
+	--wd-entities-title-font-weight: 500;
+	--wd-entities-title-color: #333333;
+	--wd-entities-title-color-hover: rgb(51 51 51 / 65%);
+	--wd-alternative-font: "Lato", Arial, Helvetica, sans-serif;
+	--wd-widget-title-font: "Poppins", Arial, Helvetica, sans-serif;
+	--wd-widget-title-font-weight: 600;
+	--wd-widget-title-transform: uppercase;
+	--wd-widget-title-color: #333;
+	--wd-widget-title-font-size: 16px;
+	--wd-header-el-font: "Lato", Arial, Helvetica, sans-serif;
+	--wd-header-el-font-weight: 700;
+	--wd-header-el-transform: uppercase;
+	--wd-header-el-font-size: 13px;
+	--wd-primary-color: rgb(0,152,70);
+	--wd-alternative-color: #fbbc34;
+	--wd-link-color: #333333;
+	--wd-link-color-hover: #242424;
+	--btn-default-bgcolor: #f7f7f7;
+	--btn-default-bgcolor-hover: #efefef;
+	--btn-accented-bgcolor: #83b735;
+	--btn-accented-bgcolor-hover: #6ca300;
+	--wd-form-brd-width: 2px;
+	--notices-success-bg: #459647;
+	--notices-success-color: #fff;
+	--notices-warning-bg: #E0B252;
+	--notices-warning-color: #fff;
+}
+.wd-popup.wd-age-verify {
+	--wd-popup-width: 500px;
+}
+.wd-popup.wd-promo-popup {
+	background-color: #111111;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: left center;
+	--wd-popup-width: 800px;
+}
+.woodmart-woocommerce-layered-nav .wd-scroll-content {
+	max-height: 280px;
+}
+.wd-page-title {
+	background-color: #0a0a0a;
+	background-image: none;
+	background-size: cover;
+	background-position: center center;
+}
+.wd-footer {
+	background-color: rgb(5,5,5);
+	background-image: none;
+}
+.wd-popup.popup-quick-view {
+	--wd-popup-width: 920px;
+}
+:root{
+--wd-container-w: 1222px;
+--wd-form-brd-radius: 0px;
+--btn-default-color: #333;
+--btn-default-color-hover: #333;
+--btn-accented-color: #fff;
+--btn-accented-color-hover: #fff;
+--btn-default-brd-radius: 0px;
+--btn-default-box-shadow: none;
+--btn-default-box-shadow-hover: none;
+--btn-default-box-shadow-active: none;
+--btn-default-bottom: 0px;
+--btn-accented-bottom-active: -1px;
+--btn-accented-brd-radius: 0px;
+--btn-accented-box-shadow: inset 0 -2px 0 rgba(0, 0, 0, .15);
+--btn-accented-box-shadow-hover: inset 0 -2px 0 rgba(0, 0, 0, .15);
+--wd-brd-radius: 0px;
+}
+
+@media (min-width: 1222px) {
+[data-vc-full-width]:not([data-vc-stretch-content]),
+:is(.vc_section, .vc_row).wd-section-stretch {
+padding-left: calc((100vw - 1222px - var(--wd-sticky-nav-w) - var(--wd-scroll-w)) / 2);
+padding-right: calc((100vw - 1222px - var(--wd-sticky-nav-w) - var(--wd-scroll-w)) / 2);
+}
+}
+
+
+			</style>
+			<link rel='stylesheet' id='vc_font_awesome_5_shims-css' href='https://alzico.com/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/css/v4-shims.min.css?ver=8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_font_awesome_5-css' href='https://alzico.com/wp-content/plugins/js_composer/assets/lib/vendor/node_modules/@fortawesome/fontawesome-free/css/all.min.css?ver=8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://alzico.com/wp-includes/css/dashicons.min.css?ver=6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='//alzico.com/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.24' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+/*# sourceURL=rs-plugin-settings-inline-css */
+</style>
+</head>
+
+<body data-rsssl=1 class="archive tax-product_cat term-alternator term-69 wp-theme-woodmart wp-child-theme-woodmart-child theme-woodmart woocommerce woocommerce-page woocommerce-no-js wrapper-full-width  categories-accordion-on woodmart-archive-shop woodmart-ajax-shop-on wpb-js-composer js-comp-ver-8.1 vc_responsive">
+			<script type="text/javascript" id="wd-flicker-fix">// Flicker fix.</script>	
+	
+	<div class="wd-page-wrapper website-wrapper">
+									<header class="whb-header whb-header_528910 whb-sticky-shadow whb-scroll-slide whb-sticky-clone">
+					<div class="whb-main-header">
+	
+<div class="whb-row whb-top-bar whb-not-sticky-row whb-with-bg whb-without-border whb-color-light whb-flex-flex-middle">
+	<div class="container">
+		<div class="whb-flex-row whb-top-bar-inner">
+			<div class="whb-column whb-col-left whb-visible-lg">
+	
+<div class="wd-header-text reset-last-child "><strong><span style="color: #ffffff;">All our products are straight from the manufacturer</span></strong></div>
+</div>
+<div class="whb-column whb-col-center whb-visible-lg whb-empty-column">
+	</div>
+<div class="whb-column whb-col-right whb-visible-lg">
+				<div id="" class=" wd-social-icons  wd-style-default social-follow wd-shape-circle  whb-43k0qayz7gg36f2jmmhk color-scheme-light text-center">
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/santhoshabrahamatlas/" target="_blank" class=" wd-social-icon social-facebook" aria-label="Facebook social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/alzicoltd/" target="_blank" class=" wd-social-icon social-instagram" aria-label="Instagram social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+									<a rel="noopener noreferrer nofollow" href="https://www.youtube.com/@AlzicoLimited-rt5bu" target="_blank" class=" wd-social-icon social-youtube" aria-label="YouTube social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+									<a rel="noopener noreferrer nofollow" href="http://wa.me/2348030717000" target="_blank" class="wd-hide-md  wd-social-icon social-whatsapp" aria-label="WhatsApp social link">
+						<span class="wd-icon"></span>
+											</a>
+
+					<a rel="noopener noreferrer nofollow" href="http://wa.me/2348030717000" target="_blank" class="wd-hide-lg  wd-social-icon social-whatsapp" aria-label="WhatsApp social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+
+		<div class="wd-header-divider wd-full-height  whb-aik22afewdiur23h71ba"></div>
+
+<div class="wd-header-nav wd-header-secondary-nav text-right wd-full-height" role="navigation" aria-label="Secondary navigation">
+	<ul id="menu-top-bar-right" class="menu wd-nav wd-nav-secondary wd-style-bordered wd-gap-s"><li id="menu-item-402" class="woodmart-open-newsletter menu-item menu-item-type-custom menu-item-object-custom menu-item-402 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="#" class="woodmart-nav-link"><span class="wd-nav-icon fa fa-envelope-o"></span><span class="nav-link-text">NEWSLETTER</span></a></li>
+</ul></div>
+<div class="wd-header-divider wd-full-height  whb-hvo7pk2f543doxhr21h5"></div>
+</div>
+<div class="whb-column whb-col-mobile whb-hidden-lg">
+				<div id="" class=" wd-social-icons  wd-style-default social-share wd-shape-circle  whb-vmlw3iqy1i9gf64uk7of color-scheme-light text-center">
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/sharer/sharer.php?u=https://alzico.com/product-category/alternator/" target="_blank" class=" wd-social-icon social-facebook" aria-label="Facebook social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+									<a rel="noopener noreferrer nofollow" href="https://x.com/share?url=https://alzico.com/product-category/alternator/" target="_blank" class=" wd-social-icon social-twitter" aria-label="X social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+				
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://www.linkedin.com/shareArticle?mini=true&url=https://alzico.com/product-category/alternator/" target="_blank" class=" wd-social-icon social-linkedin" aria-label="Linkedin social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+									<a rel="noopener noreferrer nofollow" href="https://api.whatsapp.com/send?text=https%3A%2F%2Falzico.com%2Fproduct-category%2Falternator%2F" target="_blank" class="wd-hide-md  wd-social-icon social-whatsapp" aria-label="WhatsApp social link">
+						<span class="wd-icon"></span>
+											</a>
+
+					<a rel="noopener noreferrer nofollow" href="whatsapp://send?text=https%3A%2F%2Falzico.com%2Fproduct-category%2Falternator%2F" target="_blank" class="wd-hide-lg  wd-social-icon social-whatsapp" aria-label="WhatsApp social link">
+						<span class="wd-icon"></span>
+											</a>
+				
+				
+				
+				
+				
+				
+				
+				
+			</div>
+
+		</div>
+		</div>
+	</div>
+</div>
+
+<div class="whb-row whb-general-header whb-not-sticky-row whb-without-bg whb-border-fullwidth whb-color-dark whb-flex-flex-middle">
+	<div class="container">
+		<div class="whb-flex-row whb-general-header-inner">
+			<div class="whb-column whb-col-left whb-visible-lg">
+	<div class="site-logo">
+	<a href="https://alzico.com/" class="wd-logo wd-main-logo" rel="home" aria-label="Site logo">
+		<img src="https://alzico.com/wp-content/uploads/2021/09/logo.jpg" alt="Alzico" style="max-width: 279px;" />	</a>
+	</div>
+</div>
+<div class="whb-column whb-col-center whb-visible-lg">
+				<div class="wd-search-form wd-header-search-form wd-display-form whb-9x1ytaxq7aphtb3npidp">
+				
+				
+				<form role="search" method="get" class="searchform  wd-with-cat wd-style-default wd-cat-style-bordered woodmart-ajax-search" action="https://alzico.com/"  data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products" required/>
+					<input type="hidden" name="post_type" value="product">
+								<div class="wd-search-cat wd-scroll">
+				<input type="hidden" name="product_cat" value="0">
+				<a href="#" rel="nofollow" data-val="0">
+					<span>
+						Select category					</span>
+				</a>
+				<div class="wd-dropdown wd-dropdown-search-cat wd-dropdown-menu wd-scroll-content wd-design-default">
+					<ul class="wd-sub-menu">
+						<li style="display:none;"><a href="#" data-val="0">Select category</a></li>
+							<li class="cat-item cat-item-37"><a class="pf-value" href="https://alzico.com/product-category/agriculture-equipment/" data-val="agriculture-equipment" data-title="Agriculture Equipment" >Agriculture Equipment</a>
+</li>
+	<li class="cat-item cat-item-69 current-cat wd-active"><a class="pf-value" href="https://alzico.com/product-category/alternator/" data-val="alternator" data-title="Alternator" >Alternator</a>
+</li>
+	<li class="cat-item cat-item-75"><a class="pf-value" href="https://alzico.com/product-category/anchor-allied/" data-val="anchor-allied" data-title="Anchor Aallied" >Anchor Aallied</a>
+</li>
+	<li class="cat-item cat-item-73"><a class="pf-value" href="https://alzico.com/product-category/construction-chemicals/" data-val="construction-chemicals" data-title="Construction Chemicals" >Construction Chemicals</a>
+</li>
+	<li class="cat-item cat-item-74"><a class="pf-value" href="https://alzico.com/product-category/construction-equipments/" data-val="construction-equipments" data-title="Construction Equipments" >Construction Equipments</a>
+</li>
+	<li class="cat-item cat-item-67"><a class="pf-value" href="https://alzico.com/product-category/diesel-engine/" data-val="diesel-engine" data-title="Diesel Engine" >Diesel Engine</a>
+</li>
+	<li class="cat-item cat-item-66"><a class="pf-value" href="https://alzico.com/product-category/electric-motor/" data-val="electric-motor" data-title="Electric Motor" >Electric Motor</a>
+</li>
+	<li class="cat-item cat-item-70"><a class="pf-value" href="https://alzico.com/product-category/electrical-extension-socket/" data-val="electrical-extension-socket" data-title="Electrical Extension Socket" >Electrical Extension Socket</a>
+</li>
+	<li class="cat-item cat-item-65"><a class="pf-value" href="https://alzico.com/product-category/forklift/" data-val="forklift" data-title="Forklift" >Forklift</a>
+</li>
+	<li class="cat-item cat-item-86"><a class="pf-value" href="https://alzico.com/product-category/generators/" data-val="generators" data-title="Generators" >Generators</a>
+</li>
+	<li class="cat-item cat-item-71"><a class="pf-value" href="https://alzico.com/product-category/marine-plywood/" data-val="marine-plywood" data-title="Marine Plywood" >Marine Plywood</a>
+</li>
+	<li class="cat-item cat-item-72"><a class="pf-value" href="https://alzico.com/product-category/paint/" data-val="paint" data-title="Paint" >Paint</a>
+</li>
+	<li class="cat-item cat-item-15"><a class="pf-value" href="https://alzico.com/product-category/uncategorized/" data-val="uncategorized" data-title="Uncategorized" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-87"><a class="pf-value" href="https://alzico.com/product-category/unitint-stainers/" data-val="unitint-stainers" data-title="Unitint Stainers" >Unitint Stainers</a>
+</li>
+	<li class="cat-item cat-item-39"><a class="pf-value" href="https://alzico.com/product-category/water-pump/" data-val="water-pump" data-title="Water Pump" >Water Pump</a>
+</li>
+	<li class="cat-item cat-item-40"><a class="pf-value" href="https://alzico.com/product-category/water-tank/" data-val="water-tank" data-title="Water Tank" >Water Tank</a>
+</li>
+					</ul>
+				</div>
+			</div>
+								<button type="submit" class="searchsubmit">
+						<span>
+							Search						</span>
+											</button>
+				</form>
+
+				
+				
+									<div class="search-results-wrapper">
+						<div class="wd-dropdown-results wd-scroll wd-dropdown">
+							<div class="wd-scroll-content"></div>
+						</div>
+					</div>
+				
+				
+							</div>
+		</div>
+<div class="whb-column whb-col-right whb-visible-lg">
+	<div class="whb-space-element " style="width:15px;"></div><div class="wd-header-my-account wd-tools-element wd-event-hover wd-design-1 wd-account-style-text login-side-opener whb-vssfpylqqax9pvkfnxoz">
+			<a href="https://alzico.com/my-account/" title="My account">
+			
+				<span class="wd-tools-icon">
+									</span>
+				<span class="wd-tools-text">
+				Login / Register			</span>
+
+					</a>
+
+			</div>
+
+<div class="wd-header-wishlist wd-tools-element wd-style-icon wd-with-count wd-design-2 whb-a22wdkiy3r40yw2paskq" title="My Wishlist">
+	<a href="https://alzico.com/wishlist/" title="Wishlist products">
+		
+			<span class="wd-tools-icon">
+				
+									<span class="wd-tools-count">
+						0					</span>
+							</span>
+
+			<span class="wd-tools-text">
+				Wishlist			</span>
+
+			</a>
+</div>
+
+<div class="wd-header-compare wd-tools-element wd-style-icon wd-with-count wd-design-2 whb-p2jvs451wo69tpw9jy4t">
+	<a href="https://alzico.com/compare/" title="Compare products">
+		
+			<span class="wd-tools-icon">
+				
+									<span class="wd-tools-count">0</span>
+							</span>
+			<span class="wd-tools-text">
+				Compare			</span>
+
+			</a>
+	</div>
+
+<div class="wd-header-cart wd-tools-element wd-design-2 cart-widget-opener whb-nedhm962r512y1xz9j06">
+	<a href="https://alzico.com/cart/" title="Shopping cart">
+		
+			<span class="wd-tools-icon wd-icon-alt">
+															<span class="wd-cart-number wd-tools-count">0 <span>items</span></span>
+									</span>
+			<span class="wd-tools-text">
+				
+										<span class="wd-cart-subtotal"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8358;</span>0.00</bdi></span></span>
+					</span>
+
+			</a>
+	</div>
+</div>
+<div class="whb-column whb-mobile-left whb-hidden-lg">
+	<div class="wd-tools-element wd-header-mobile-nav wd-style-text wd-design-1 whb-g1k0m1tib7raxrwkm1t3">
+	<a href="#" rel="nofollow" aria-label="Open mobile menu">
+		
+		<span class="wd-tools-icon">
+					</span>
+
+		<span class="wd-tools-text">Menu</span>
+
+			</a>
+</div></div>
+<div class="whb-column whb-mobile-center whb-hidden-lg">
+	<div class="site-logo">
+	<a href="https://alzico.com/" class="wd-logo wd-main-logo" rel="home" aria-label="Site logo">
+		<img src="https://alzico.com/wp-content/uploads/2021/09/logo.jpg" alt="Alzico" style="max-width: 179px;" />	</a>
+	</div>
+</div>
+<div class="whb-column whb-mobile-right whb-hidden-lg">
+	
+<div class="wd-header-cart wd-tools-element wd-design-5 cart-widget-opener whb-trk5sfmvib0ch1s1qbtc">
+	<a href="https://alzico.com/cart/" title="Shopping cart">
+		
+			<span class="wd-tools-icon wd-icon-alt">
+															<span class="wd-cart-number wd-tools-count">0 <span>items</span></span>
+									</span>
+			<span class="wd-tools-text">
+				
+										<span class="wd-cart-subtotal"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&#8358;</span>0.00</bdi></span></span>
+					</span>
+
+			</a>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+
+<div class="whb-row whb-header-bottom whb-not-sticky-row whb-without-bg whb-border-fullwidth whb-color-dark whb-hidden-mobile whb-flex-flex-middle">
+	<div class="container">
+		<div class="whb-flex-row whb-header-bottom-inner">
+			<div class="whb-column whb-col-left whb-visible-lg">
+	
+<div class="wd-header-cats wd-style-1 wd-event-hover wd-more-cat whb-wjlcubfdmlq3d7jvmt23" role="navigation" aria-label="Header categories navigation">
+	<span class="menu-opener color-scheme-light has-bg">
+					<span class="menu-opener-icon"></span>
+		
+		<span class="menu-open-label">
+			Browse Categories		</span>
+	</span>
+	<div class="wd-dropdown wd-dropdown-cats">
+		<ul id="menu-categories" class="menu wd-nav wd-nav-vertical wd-design-default"><li id="menu-item-7923" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7923 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/agriculture-equipment/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Agriculture Equipment</span></a></li>
+<li id="menu-item-7924" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-7924 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/alternator/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/alternator-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/alternator-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/alternator.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Alternator</span></a></li>
+<li id="menu-item-7925" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7925 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/construction-chemicals/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/construction-chemicals-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/construction-chemicals-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/construction-chemicals.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Construction Chemicals</span></a></li>
+<li id="menu-item-7926" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7926 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/construction-equipments/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/construction-equipments-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/construction-equipments-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/construction-equipments.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Construction Equipments</span></a></li>
+<li id="menu-item-7927" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7927 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/diesel-engine/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/diesel-engine-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/diesel-engine-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/diesel-engine.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Diesel Engine</span></a></li>
+<li id="menu-item-7928" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7928 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/electric-motor/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/electric-motor-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/electric-motor-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/electric-motor.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Electric Motor</span></a></li>
+<li id="menu-item-7929" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7929 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/electrical-extension-socket/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Electrical Extension Socket</span></a></li>
+<li id="menu-item-7931" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7931 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/forklift/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/forklift-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/forklift-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/forklift.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Forklift</span></a></li>
+<li id="menu-item-7934" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7934 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/marine-plywood/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/marine-plywood-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/marine-plywood-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/marine-plywood.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Marine Plywood</span></a></li>
+<li id="menu-item-7935" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7935 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/paint/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/paint-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/paint-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/paint.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Paint</span></a></li>
+<li id="menu-item-7938" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7938 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/anchor-allied/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/silicon-sealant-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/silicon-sealant-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/silicon-sealant.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Anchor Aallied</span></a></li>
+<li id="menu-item-7939" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7939 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/sumec-firman-generator/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/generator-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/generator-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/generator.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Sumec Firman Generator</span></a></li>
+<li id="menu-item-7941" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7941 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/water-pump/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/water-pump-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/water-pump-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/water-pump.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Water Pump</span></a></li>
+<li id="menu-item-7942" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7942 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/water-tank/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/water-tank-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/water-tank-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/water-tank.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Water Tank</span></a></li>
+<li id="menu-item-8839" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8839 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/air-conditioner/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/ac-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2023/11/ac-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/ac.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Air Conditioner</span></a></li>
+<li id="menu-item-8840" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8840 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/powerbank/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/powerbank-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2023/11/powerbank-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/powerbank.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Powerbank</span></a></li>
+<li id="menu-item-8841" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8841 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/stabilizer/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/stabilizer-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2023/11/stabilizer-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/stabilizer.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Stabilizer</span></a></li>
+<li class="menu-item item-level-0 wd-more-cat-btn"><a href="#" rel="nofollow noopener" class="woodmart-nav-link" aria-label="Show more category button"></a></li></ul>	</div>
+</div>
+</div>
+<div class="whb-column whb-col-center whb-visible-lg">
+	<div class="wd-header-nav wd-header-main-nav text-left wd-design-1" role="navigation" aria-label="Main navigation">
+	<ul id="menu-main-menu-2" class="menu wd-nav wd-nav-main wd-style-default wd-gap-s"><li id="menu-item-7990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7990 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/" class="woodmart-nav-link"><span class="nav-link-text">Home</span></a></li>
+<li id="menu-item-7993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7993 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/our-products/" class="woodmart-nav-link"><span class="nav-link-text">Our Products</span></a></li>
+<li id="menu-item-8127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8127 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/our-brands/" class="woodmart-nav-link"><span class="nav-link-text">Our Brands</span></a></li>
+<li id="menu-item-7992" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7992 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/contact-us/" class="woodmart-nav-link"><span class="nav-link-text">Contact Us</span></a></li>
+</ul></div>
+</div>
+<div class="whb-column whb-col-right whb-visible-lg">
+	
+<div class="wd-header-text reset-last-child "><ul class="inline-list inline-list-with-border main-nav-style">
+ 	<li>SPECIAL OFFER</li>
+</ul></div>
+			<div class="info-box-wrapper  whb-aqdqeooe4ocvz1smiafu">
+				<div id="wd-6940198848772" class=" wd-info-box text-left box-icon-align-left box-style-bg-hover color-scheme-dark wd-bg-none wd-items-top color-scheme-hover-dark ">
+											<div class="box-icon-wrapper  box-with-icon box-icon-simple">
+							<div class="info-box-icon">
+
+							
+																	<img width="30" height="30" src="https://alzico.com/wp-content/uploads/2021/09/phone-30x30.png" class="attachment-30x30 size-30x30" alt="" decoding="async" />															
+							</div>
+						</div>
+										<div class="info-box-content">
+						<h1 class="info-box-title title box-title-style-default font-text wd-fontsize-m">+234-803-071-7000</h1>						<div class="info-box-inner reset-last-child"></div>
+
+											</div>
+
+					
+									</div>
+			</div>
+		</div>
+<div class="whb-column whb-col-mobile whb-hidden-lg whb-empty-column">
+	</div>
+		</div>
+	</div>
+</div>
+</div>
+				</header>
+			
+								<div class="wd-page-content main-page-wrapper">
+		
+									<div class="wd-page-title page-title  page-title-default title-size-default title-design-centered color-scheme-light with-back-btn" style="background-image: url(https://bookege.com/wp-content/uploads/2017/06/dummy-wood-title.jpg);">
+					<div class="container">
+						<div class="wd-title-wrapp">
+																		<div class="wd-back-btn wd-action-btn wd-style-icon"><a href="#" rel="nofollow noopener" aria-label="Go back"></a></div>
+									
+															<h1 class="entry-title title">
+									Alternator								</h1>
+
+																					</div>
+
+											</div>
+				</div>
+						
+		<main class="wd-content-layout content-layout-wrapper container wd-builder-off wd-grid-g wd-sidebar-hidden-md-sm wd-sidebar-hidden-sm" role="main" style="--wd-col-lg:12;--wd-gap-lg:30px;--wd-gap-sm:20px;">
+				
+	
+<aside class="wd-sidebar sidebar-container wd-grid-col sidebar-left" style="--wd-col-lg:3;--wd-col-md:12;--wd-col-sm:12;">
+			<div class="wd-heading">
+			<div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon">
+				<a href="#" rel="nofollow noopener">Close</a>
+			</div>
+		</div>
+		<div class="widget-area">
+				<div id="nav_mega_menu-2" class="wd-widget widget sidebar-widget widget_nav_mega_menu"><h5 class="widget-title">Our Products</h5><ul id="menu-categories-1" class="menu wd-nav wd-nav-vertical"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7923 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/agriculture-equipment/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Agriculture Equipment</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-7924 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/alternator/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/alternator-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/alternator-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/alternator.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Alternator</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7925 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/construction-chemicals/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/construction-chemicals-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/construction-chemicals-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/construction-chemicals.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Construction Chemicals</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7926 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/construction-equipments/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/construction-equipments-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/construction-equipments-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/construction-equipments.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Construction Equipments</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7927 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/diesel-engine/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/diesel-engine-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/diesel-engine-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/diesel-engine.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Diesel Engine</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7928 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/electric-motor/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/electric-motor-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/electric-motor-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/electric-motor.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Electric Motor</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7929 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/electrical-extension-socket/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Electrical Extension Socket</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7931 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/forklift/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/forklift-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/forklift-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/forklift.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Forklift</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7934 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/marine-plywood/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/marine-plywood-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/marine-plywood-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/marine-plywood.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Marine Plywood</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7935 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/paint/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/paint-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/paint-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/paint.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Paint</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7938 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/anchor-allied/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/silicon-sealant-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/silicon-sealant-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/silicon-sealant.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Anchor Aallied</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7939 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/sumec-firman-generator/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/generator-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/generator-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/generator.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Sumec Firman Generator</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7941 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/water-pump/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/water-pump-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/water-pump-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/water-pump.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Water Pump</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7942 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/water-tank/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/water-tank-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2021/09/water-tank-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/water-tank.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Water Tank</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8839 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/air-conditioner/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/ac-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2023/11/ac-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/ac.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Air Conditioner</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8840 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/powerbank/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/powerbank-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2023/11/powerbank-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/powerbank.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Powerbank</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8841 item-level-0 menu-simple-dropdown wd-event-hover" ><a href="https://alzico.com/product-category/stabilizer/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/stabilizer-150x150.png" class="wd-nav-img" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2023/11/stabilizer-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/stabilizer.png 300w" sizes="(max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Stabilizer</span></a></li>
+</ul></div><div id="woocommerce_products-4" class="wd-widget widget sidebar-widget woocommerce widget_products"><h5 class="widget-title">Products</h5><ul class="product_list_widget"><li>
+		<span class="widget-product-wrap">
+		<a href="https://alzico.com/product/submersible-pump-junior-1hp/" title="Submersible Pump Junior 1HP" class="widget-product-img">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/06/Submersible-Pump-Junior-1HP-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Submersible Pump Junior 1HP" decoding="async" fetchpriority="high" srcset="https://alzico.com/wp-content/uploads/2022/06/Submersible-Pump-Junior-1HP-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/06/Submersible-Pump-Junior-1HP-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/06/Submersible-Pump-Junior-1HP-1024x1024.jpg 1024w, https://alzico.com/wp-content/uploads/2022/06/Submersible-Pump-Junior-1HP-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/06/Submersible-Pump-Junior-1HP-768x768.jpg 768w, https://alzico.com/wp-content/uploads/2022/06/Submersible-Pump-Junior-1HP.jpg 1200w" sizes="(max-width: 600px) 100vw, 600px" />		</a>
+		<span class="widget-product-info">
+			<a href="https://alzico.com/product/submersible-pump-junior-1hp/" title="Submersible Pump Junior 1HP" class="wd-entities-title">
+				Submersible Pump Junior 1HP			</a>
+													<span class="price"></span>
+		</span>
+	</span>
+	</li>
+</ul></div>			</div>
+</aside>
+
+<div class="wd-content-area site-content wd-grid-col" style="--wd-col-lg:9;--wd-col-md:12;--wd-col-sm:12;">
+<div class="woocommerce-notices-wrapper"></div>
+
+
+<div class="shop-loop-head">
+	<div class="wd-shop-tools">
+					<nav class="wd-breadcrumbs woocommerce-breadcrumb" aria-label="Breadcrumb">				<span typeof="v:Breadcrumb" class=" wd-last-link">
+					<a href="https://alzico.com" rel="v:url" property="v:title">
+						Home					</a>
+				</span>
+			<span class="wd-delimiter"></span>				<span class="wd-last">
+					Alternator				</span>
+			</nav>		
+		<p class="woocommerce-result-count" >
+	Showing 1&ndash;12 of 15 results</p>
+	</div>
+	<div class="wd-shop-tools">
+								<div class="wd-show-sidebar-btn wd-action-btn wd-style-text wd-burger-icon">
+				<a href="#" rel="nofollow">Show sidebar</a>
+			</div>
+		
+		<div class="wd-products-per-page">
+			<span class="wd-label per-page-title">
+				Show			</span>
+
+											<a rel="nofollow noopener" href="https://alzico.com/product-category/alternator/?per_page=9" class="per-page-variation">
+					<span>
+						9					</span>
+				</a>
+				<span class="per-page-border"></span>
+											<a rel="nofollow noopener" href="https://alzico.com/product-category/alternator/?per_page=24" class="per-page-variation">
+					<span>
+						24					</span>
+				</a>
+				<span class="per-page-border"></span>
+											<a rel="nofollow noopener" href="https://alzico.com/product-category/alternator/?per_page=36" class="per-page-variation">
+					<span>
+						36					</span>
+				</a>
+				<span class="per-page-border"></span>
+					</div>
+				<div class="wd-products-shop-view products-view-grid">
+			
+												
+										<a rel="nofollow noopener" href="https://alzico.com/product-category/alternator/?shop_view=grid&#038;per_row=2" class="shop-view per-row-2" aria-label="Grid view 2"></a>
+									
+										<a rel="nofollow noopener" href="https://alzico.com/product-category/alternator/?shop_view=grid&#038;per_row=3" class="shop-view current-variation per-row-3" aria-label="Grid view 3"></a>
+									
+										<a rel="nofollow noopener" href="https://alzico.com/product-category/alternator/?shop_view=grid&#038;per_row=4" class="shop-view per-row-4" aria-label="Grid view 4"></a>
+									</div>
+		<form class="woocommerce-ordering wd-style-underline wd-ordering-mb-icon" method="get">
+			<select name="orderby" class="orderby" aria-label="Shop order">
+							<option value="menu_order"  selected='selected'>Default sorting</option>
+							<option value="popularity" >Sort by popularity</option>
+							<option value="rating" >Sort by average rating</option>
+							<option value="date" >Sort by latest</option>
+							<option value="price" >Sort by price: low to high</option>
+							<option value="price-desc" >Sort by price: high to low</option>
+					</select>
+		<input type="hidden" name="paged" value="1" />
+			</form>
+			</div>
+</div>
+
+
+
+			<div class="wd-products-element">			<div class="wd-sticky-loader wd-content-loader"><span class="wd-loader"></span></div>
+		
+<div class="products wd-products wd-grid-g grid-columns-3 elements-grid pagination-pagination title-line-one" data-source="main_loop" data-min_price="" data-max_price="" data-columns="3" style="--wd-col-lg:3;--wd-col-md:3;--wd-col-sm:2;--wd-gap-lg:20px;--wd-gap-sm:10px;">
+
+							
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8216 status-publish instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="1" data-id="8216">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/st-10-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/ST-10-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2022/05/ST-10-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/ST-10-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/ST-10-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/ST-10-KW.jpg 660w" sizes="(max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8216" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/st-10-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8216"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8216" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/st-10-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8216" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8216" data-product_sku="" aria-label="Read more about &ldquo;ST- 10 Kw Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8216" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/st-10-kw-alternator/">ST- 10 Kw Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8213 status-publish instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="2" data-id="8213">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/st-12-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/ST-12-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" srcset="https://alzico.com/wp-content/uploads/2022/05/ST-12-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/ST-12-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/ST-12-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/ST-12-KW.jpg 660w" sizes="(max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8213" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/st-12-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8213"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8213" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/st-12-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8213" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8213" data-product_sku="" aria-label="Read more about &ldquo;ST- 12 Kw Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8213" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/st-12-kw-alternator/">ST- 12 Kw Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8218 status-publish last instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="3" data-id="8218">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/st-15-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/ST-15-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/ST-15-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/ST-15-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/ST-15-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/ST-15-KW.jpg 660w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8218" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/st-15-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8218"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8218" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/st-15-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8218" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8218" data-product_sku="" aria-label="Read more about &ldquo;ST- 15 Kw Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8218" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/st-15-kw-alternator/">ST- 15 Kw Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8225 status-publish first instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="4" data-id="8225">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/st-20-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/ST-20-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/ST-20-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/ST-20-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/ST-20-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/ST-20-KW.jpg 660w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8225" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/st-20-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8225"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8225" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/st-20-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8225" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8225" data-product_sku="" aria-label="Read more about &ldquo;ST- 20 Kw Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8225" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/st-20-kw-alternator/">ST- 20 Kw Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8223 status-publish instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="5" data-id="8223">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/st-25-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/ST-25-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/ST-25-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/ST-25-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/ST-25-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/ST-25-KW.jpg 660w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8223" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/st-25-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8223"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8223" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/st-25-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8223" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8223" data-product_sku="" aria-label="Read more about &ldquo;ST- 25 Kw Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8223" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/st-25-kw-alternator/">ST- 25 Kw Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8214 status-publish instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="6" data-id="8214">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/st-7-5-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/ST-7.5-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/ST-7.5-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/ST-7.5-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/ST-7.5-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/ST-7.5-KW.jpg 660w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8214" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/st-7-5-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8214"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8214" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/st-7-5-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8214" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8214" data-product_sku="" aria-label="Read more about &ldquo;ST- 7.5 Kw Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8214" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/st-7-5-kw-alternator/">ST- 7.5 Kw Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-with-labels wd-hover-quick wd-col product-grid-item product type-product post-8228 status-publish last instock product_cat-alternator has-post-thumbnail featured shipping-taxable product-type-simple" data-loop="7" data-id="8228">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/stc-10-kw-alternator/" class="product-image-link">
+			<div class="product-labels labels-rounded"><span class="featured product-label">Hot</span></div><img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/STC-10-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/STC-10-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/STC-10-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/STC-10-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/STC-10-KW.jpg 613w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8228" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/stc-10-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8228"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8228" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/stc-10-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8228" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8228" data-product_sku="" aria-label="Read more about &ldquo;STC-10 KW Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8228" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/stc-10-kw-alternator/">STC-10 KW Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8231 status-publish first instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="8" data-id="8231">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/stc-12-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/STC-12-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/STC-12-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/STC-12-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/STC-12-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/STC-12-KW.jpg 613w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8231" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/stc-12-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8231"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8231" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/stc-12-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8231" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8231" data-product_sku="" aria-label="Read more about &ldquo;STC-12 KW Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8231" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/stc-12-kw-alternator/">STC-12 KW Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8233 status-publish instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="9" data-id="8233">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/stc-15-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/STC-15-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/STC-15-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/STC-15-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/STC-15-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/STC-15-KW.jpg 613w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8233" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/stc-15-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8233"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8233" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/stc-15-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8233" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8233" data-product_sku="" aria-label="Read more about &ldquo;STC-15 KW Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8233" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/stc-15-kw-alternator/">STC-15 KW Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8235 status-publish instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="10" data-id="8235">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/stc-20-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/STC-20-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/STC-20-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/STC-20-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/STC-20-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/STC-20-KW.jpg 613w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8235" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/stc-20-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8235"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8235" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/stc-20-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8235" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8235" data-product_sku="" aria-label="Read more about &ldquo;STC-20 KW Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8235" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/stc-20-kw-alternator/">STC-20 KW Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8237 status-publish last instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="11" data-id="8237">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/stc-25-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/STC-25-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/STC-25-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/STC-25-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/STC-25-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/STC-25-KW.jpg 613w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8237" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/stc-25-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8237"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8237" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/stc-25-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8237" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8237" data-product_sku="" aria-label="Read more about &ldquo;STC-25 KW Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8237" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/stc-25-kw-alternator/">STC-25 KW Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+				
+					
+					<div class="wd-product wd-hover-quick wd-col product-grid-item product type-product post-8239 status-publish first instock product_cat-alternator has-post-thumbnail shipping-taxable product-type-simple" data-loop="12" data-id="8239">
+	
+	
+<div class="product-wrapper">
+	<div class="product-element-top wd-quick-shop">
+		<a href="https://alzico.com/product/stc-30-kw-alternator/" class="product-image-link">
+			<img width="600" height="600" src="https://alzico.com/wp-content/uploads/2022/05/STC-30-KW-600x600.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2022/05/STC-30-KW-600x600.jpg 600w, https://alzico.com/wp-content/uploads/2022/05/STC-30-KW-300x300.jpg 300w, https://alzico.com/wp-content/uploads/2022/05/STC-30-KW-150x150.jpg 150w, https://alzico.com/wp-content/uploads/2022/05/STC-30-KW.jpg 613w" sizes="auto, (max-width: 600px) 100vw, 600px" />		</a>
+
+				<div class="wd-buttons wd-pos-r-t">
+								<div class="wd-compare-btn product-compare-button wd-action-btn wd-style-icon wd-compare-icon">
+			<a href="https://alzico.com/compare/" data-id="8239" rel="nofollow" data-added-text="Compare products">
+				<span>Compare</span>
+			</a>
+		</div>
+							<div class="quick-view wd-action-btn wd-style-icon wd-quick-view-icon">
+			<a
+				href="https://alzico.com/product/stc-30-kw-alternator/"
+				class="open-quick-view quick-view-button"
+				rel="nofollow"
+				data-id="8239"
+				>Quick view</a>
+		</div>
+								<div class="wd-wishlist-btn wd-action-btn wd-style-icon wd-wishlist-icon">
+				<a class="" href="https://alzico.com/wishlist/" data-key="2d6f5e426e" data-product-id="8239" rel="nofollow" data-added-text="Browse Wishlist">
+					<span>Add to wishlist</span>
+				</a>
+			</div>
+				</div>
+
+					<div class="wd-add-btn wd-add-btn-replace">
+				
+				<a href="https://alzico.com/product/stc-30-kw-alternator/" aria-describedby="woocommerce_loop_add_to_cart_link_describedby_8239" data-quantity="1" class="button product_type_simple add-to-cart-loop" data-product_id="8239" data-product_sku="" aria-label="Read more about &ldquo;STC-30 KW Alternator&rdquo;" rel="nofollow" data-success_message=""><span>Read more</span></a>	<span id="woocommerce_loop_add_to_cart_link_describedby_8239" class="screen-reader-text">
+			</span>
+							</div>
+			</div>
+			<h3 class="wd-entities-title"><a href="https://alzico.com/product/stc-30-kw-alternator/">STC-30 KW Alternator</a></h3>
+			<div class="wd-product-cats">
+			<a href="https://alzico.com/product-category/alternator/" rel="tag">Alternator</a>		</div>
+				
+
+	
+	
+		</div>
+</div>
+
+							
+
+			</div>
+
+							<div class="wd-loop-footer products-footer">
+					<nav class="woocommerce-pagination wd-pagination" aria-label="Product Pagination">
+				<ul class='page-numbers'>
+	<li><span aria-label="Page 1" aria-current="page" class="page-numbers current">1</span></li>
+	<li><a aria-label="Page 2" class="page-numbers" href="https://alzico.com/product-category/alternator/page/2/">2</a></li>
+	<li><a class="next page-numbers" href="https://alzico.com/product-category/alternator/page/2/">&rarr;</a></li>
+</ul>
+			</nav>
+			</div>
+</div>
+		
+
+</div>
+
+			</main>
+		
+</div>
+								<div class="wd-prefooter">
+				<div class="container wd-entry-content">
+											<style data-type="vc_shortcodes-custom-css">.vc_custom_1493881945773{margin-bottom: -40px !important;background-color: #f9f9f9 !important;}.vc_custom_1488538101973{padding-top: 0px !important;padding-bottom: 0px !important;}</style><div class="wpb-content-wrapper"><div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1493881945773 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner vc_custom_1488538101973"><div class="wpb_wrapper">
+		<div id="brands_8745" class="wd-brands brands-widget slider-brands_8745 wd-layout-carousel wd-hover-alt wd-style-default wd-carousel-container">
+			
+							<div class="wd-carousel-inner">
+			
+			<div class="wd-carousel wd-grid" data-wrap="yes" data-scroll_per_page="yes" style="--wd-col-lg:7;--wd-col-md:4;--wd-col-sm:2;">
+									<div class="wd-carousel-wrap">
+				
+															
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=unitint" title="Unitint" class="wd-fill"></a>
+									
+									<img width="200" height="150" src="https://alzico.com/wp-content/uploads/2023/11/unitint.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2023/11/unitint.png 200w, https://alzico.com/wp-content/uploads/2023/11/unitint-150x113.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px" />															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=tech7" title="Tech7" class="wd-fill"></a>
+									
+									<img width="200" height="150" src="https://alzico.com/wp-content/uploads/2023/11/tech7.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2023/11/tech7.png 200w, https://alzico.com/wp-content/uploads/2023/11/tech7-150x113.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px" />															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=sumec" title="Sumec" class="wd-fill"></a>
+									
+									<img src="https://alzico.com/wp-content/uploads/2021/09/sumec.png" alt="Sumec" title="Sumec">															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=sifang" title="Sifang" class="wd-fill"></a>
+									
+									<img src="https://alzico.com/wp-content/uploads/2021/09/sifang.png" alt="Sifang" title="Sifang">															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=m-seal" title="M Seal" class="wd-fill"></a>
+									
+									<img src="https://alzico.com/wp-content/uploads/2021/09/m-seal.png" alt="M Seal" title="M Seal">															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=dr-fixit" title="DR. Fixit" class="wd-fill"></a>
+									
+									<img src="https://alzico.com/wp-content/uploads/2021/09/dr-fixit.png" alt="DR. Fixit" title="DR. Fixit">															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=bvita" title="Bvita" class="wd-fill"></a>
+									
+									<img width="200" height="150" src="https://alzico.com/wp-content/uploads/2023/11/bvita.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2023/11/bvita.png 200w, https://alzico.com/wp-content/uploads/2023/11/bvita-150x113.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px" />															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=atlas" title="Atlas" class="wd-fill"></a>
+									
+									<img src="https://alzico.com/wp-content/uploads/2021/09/atlas.png" alt="Atlas" title="Atlas">															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=asmaco" title="Asmaco" class="wd-fill"></a>
+									
+									<img src="https://alzico.com/wp-content/uploads/2021/09/asmaco.png" alt="Asmaco" title="Asmaco">															</div>
+						</div>
+											
+						<div class=" wd-carousel-item">
+							<div class="wd-brand-item brand-item">
+																											<a href="https://alzico.com/our-products/?filter_brand=alziconet" title="Alziconet" class="wd-fill"></a>
+									
+									<img width="200" height="150" src="https://alzico.com/wp-content/uploads/2023/11/alziconet.png" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2023/11/alziconet.png 200w, https://alzico.com/wp-content/uploads/2023/11/alziconet-150x113.png 150w" sizes="auto, (max-width: 200px) 100vw, 200px" />															</div>
+						</div>
+																		</div>
+							</div>
+
+							
+				</div>
+
+													</div>
+		</div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div>									</div>
+			</div>
+							<footer class="wd-footer footer-container color-scheme-light">
+																					<div class="container main-footer">
+		<aside class="footer-sidebar widget-area wd-grid-g" style="--wd-col-lg:12;--wd-gap-lg:30px;--wd-gap-sm:20px;">
+											<div class="footer-column footer-column-1 wd-grid-col" style="--wd-col-xs:12;--wd-col-md:4;--wd-col-lg:3;">
+					<div id="text-9" class="wd-widget widget footer-widget  widget_text">			<div class="textwidget"><div class="footer-logo" style="max-width: 80%; margin-bottom: 10px;"><img src="https://alzico.com/wp-content/uploads/2021/09/logo.jpg"  style="margin-bottom: 10px;" /></div>
+<p>Alzico Limited was established in 1967 and the nature of its business is importation and distribution.</p>
+<div style="line-height: 2;"><i class="fa fa-location-arrow" style="width: 15px; text-align: center; margin-right: 4px;"></i> KM 3, Lagos-Badagry Expressway, ATLAS PLAZA, Opposite ATLAS Tollgate, Orile, Lagos, Nigeria. <br>
+<i class="fa fa-mobile" style="width: 15px; text-align: center; margin-right: 4px;"></i> Phone: +234 803 071 7000 <br>
+<i class="fa fa-envelope" style="width: 15px; text-align: center; margin-right: 4px;"></i> Email: abraham@alzico.com</div>
+		    	</div>
+		</div>				</div>
+											<div class="footer-column footer-column-2 wd-grid-col" style="--wd-col-xs:12;--wd-col-md:4;--wd-col-lg:3;">
+					<div id="nav_menu-2" class="wd-widget widget footer-widget  widget_nav_menu"><h5 class="widget-title">Quick Links</h5><div class="menu-quick-links-container"><ul id="menu-quick-links" class="menu"><li id="menu-item-8129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-8129"><a href="https://alzico.com/">Home</a></li>
+<li id="menu-item-8131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8131"><a href="https://alzico.com/about-us-3/">About Us</a></li>
+<li id="menu-item-8134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8134"><a href="https://alzico.com/our-products/">Our Products</a></li>
+<li id="menu-item-8133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8133"><a href="https://alzico.com/our-brands/">Our Brands</a></li>
+<li id="menu-item-8132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8132"><a href="https://alzico.com/contact-us/">Contact Us</a></li>
+</ul></div></div><div id="nav_menu-4" class="wd-widget widget footer-widget  widget_nav_menu"><h5 class="widget-title">Useful links</h5><div class="menu-other-link-container"><ul id="menu-other-link" class="menu"><li id="menu-item-8135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8135"><a href="https://alzico.com/terms-and-conditions/">Terms and Conditions</a></li>
+<li id="menu-item-8136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8136"><a href="https://alzico.com/return-refund-policy/">Return &#038; Refund Policy</a></li>
+<li id="menu-item-8137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8137"><a href="https://alzico.com/privacy-policy-3/">Privacy Policy</a></li>
+</ul></div></div>				</div>
+											<div class="footer-column footer-column-3 wd-grid-col" style="--wd-col-xs:12;--wd-col-md:4;--wd-col-lg:6;">
+					<div id="nav_menu-5" class="wd-widget widget footer-widget  widget_nav_menu"><h5 class="widget-title">Oup Products</h5><div class="menu-categories-container"><ul id="menu-categories-2" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7923"><a href="https://alzico.com/product-category/agriculture-equipment/">Agriculture Equipment</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-7924"><a href="https://alzico.com/product-category/alternator/" aria-current="page">Alternator</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7925"><a href="https://alzico.com/product-category/construction-chemicals/">Construction Chemicals</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7926"><a href="https://alzico.com/product-category/construction-equipments/">Construction Equipments</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7927"><a href="https://alzico.com/product-category/diesel-engine/">Diesel Engine</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7928"><a href="https://alzico.com/product-category/electric-motor/">Electric Motor</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7929"><a href="https://alzico.com/product-category/electrical-extension-socket/">Electrical Extension Socket</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7931"><a href="https://alzico.com/product-category/forklift/">Forklift</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7934"><a href="https://alzico.com/product-category/marine-plywood/">Marine Plywood</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7935"><a href="https://alzico.com/product-category/paint/">Paint</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7938"><a href="https://alzico.com/product-category/anchor-allied/">Anchor Aallied</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7939"><a href="https://alzico.com/product-category/sumec-firman-generator/">Sumec Firman Generator</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7941"><a href="https://alzico.com/product-category/water-pump/">Water Pump</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7942"><a href="https://alzico.com/product-category/water-tank/">Water Tank</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8839"><a href="https://alzico.com/product-category/air-conditioner/">Air Conditioner</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8840"><a href="https://alzico.com/product-category/powerbank/">Powerbank</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8841"><a href="https://alzico.com/product-category/stabilizer/">Stabilizer</a></li>
+</ul></div></div>				</div>
+					</aside>
+	</div>
+	
+																							<div class="wd-copyrights copyrights-wrapper wd-layout-two-columns">
+						<div class="container wd-grid-g">
+							<div class="wd-col-start reset-last-child">
+																	<small><a href="https://alzico.com"><strong>Alzico Limited</strong></a> <i class="fa fa-copyright"></i>  2023 CREATED BY <a href="alzico.com"><strong>Orbit Inhouse</strong></a></small>															</div>
+															<div class="wd-col-end reset-last-child">
+									<img src="https://bookege.com/wp-content/themes/woodmart/images/payments.png" alt="payments">								</div>
+													</div>
+					</div>
+							</footer>
+			</div>
+<div class="wd-close-side wd-fill"></div>
+		<a href="#" class="scrollToTop" aria-label="Scroll to top button"></a>
+		<div class="mobile-nav wd-side-hidden wd-side-hidden-nav wd-left wd-opener-arrow">			<div class="wd-search-form">
+				
+				
+				<form role="search" method="get" class="searchform  wd-cat-style-bordered woodmart-ajax-search" action="https://alzico.com/"  data-thumbnail="1" data-price="1" data-post_type="product" data-count="20" data-sku="0" data-symbols_count="3">
+					<input type="text" class="s" placeholder="Search for products" value="" name="s" aria-label="Search" title="Search for products" required/>
+					<input type="hidden" name="post_type" value="product">
+										<button type="submit" class="searchsubmit">
+						<span>
+							Search						</span>
+											</button>
+				</form>
+
+				
+				
+									<div class="search-results-wrapper">
+						<div class="wd-dropdown-results wd-scroll wd-dropdown">
+							<div class="wd-scroll-content"></div>
+						</div>
+					</div>
+				
+				
+							</div>
+						<ul class="wd-nav wd-nav-mob-tab wd-style-underline">
+					<li class="mobile-tab-title mobile-pages-title  wd-active" data-menu="pages">
+						<a href="#" rel="nofollow noopener">
+							<span class="nav-link-text">
+								Menu							</span>
+						</a>
+					</li>
+					<li class="mobile-tab-title mobile-categories-title " data-menu="categories">
+						<a href="#" rel="nofollow noopener">
+							<span class="nav-link-text">
+								Categories							</span>
+						</a>
+					</li>
+				</ul>
+			<ul id="menu-categories-3" class="mobile-categories-menu menu wd-nav wd-nav-mobile wd-layout-dropdown"><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7923 item-level-0" ><a href="https://alzico.com/product-category/agriculture-equipment/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/agriculture-equipment.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Agriculture Equipment</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-7924 item-level-0" ><a href="https://alzico.com/product-category/alternator/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/alternator-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/alternator-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/alternator.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Alternator</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7925 item-level-0" ><a href="https://alzico.com/product-category/construction-chemicals/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/construction-chemicals-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/construction-chemicals-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/construction-chemicals.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Construction Chemicals</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7926 item-level-0" ><a href="https://alzico.com/product-category/construction-equipments/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/construction-equipments-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/construction-equipments-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/construction-equipments.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Construction Equipments</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7927 item-level-0" ><a href="https://alzico.com/product-category/diesel-engine/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/diesel-engine-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/diesel-engine-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/diesel-engine.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Diesel Engine</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7928 item-level-0" ><a href="https://alzico.com/product-category/electric-motor/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/electric-motor-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/electric-motor-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/electric-motor.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Electric Motor</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7929 item-level-0" ><a href="https://alzico.com/product-category/electrical-extension-socket/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/electrical-extension-socket.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Electrical Extension Socket</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7931 item-level-0" ><a href="https://alzico.com/product-category/forklift/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/forklift-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/forklift-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/forklift.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Forklift</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7934 item-level-0" ><a href="https://alzico.com/product-category/marine-plywood/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/marine-plywood-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/marine-plywood-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/marine-plywood.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Marine Plywood</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7935 item-level-0" ><a href="https://alzico.com/product-category/paint/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/paint-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/paint-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/paint.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Paint</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7938 item-level-0" ><a href="https://alzico.com/product-category/anchor-allied/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/silicon-sealant-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/silicon-sealant-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/silicon-sealant.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Anchor Aallied</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7939 item-level-0" ><a href="https://alzico.com/product-category/sumec-firman-generator/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/generator-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/generator-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/generator.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Sumec Firman Generator</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7941 item-level-0" ><a href="https://alzico.com/product-category/water-pump/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/water-pump-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/water-pump-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/water-pump.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Water Pump</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-7942 item-level-0" ><a href="https://alzico.com/product-category/water-tank/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2021/09/water-tank-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2021/09/water-tank-150x150.png 150w, https://alzico.com/wp-content/uploads/2021/09/water-tank.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Water Tank</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8839 item-level-0" ><a href="https://alzico.com/product-category/air-conditioner/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/ac-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2023/11/ac-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/ac.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Air Conditioner</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8840 item-level-0" ><a href="https://alzico.com/product-category/powerbank/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/powerbank-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2023/11/powerbank-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/powerbank.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Powerbank</span></a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-8841 item-level-0" ><a href="https://alzico.com/product-category/stabilizer/" class="woodmart-nav-link"><img width="150" height="150" src="https://alzico.com/wp-content/uploads/2023/11/stabilizer-150x150.png" class="wd-nav-img" alt="" decoding="async" loading="lazy" srcset="https://alzico.com/wp-content/uploads/2023/11/stabilizer-150x150.png 150w, https://alzico.com/wp-content/uploads/2023/11/stabilizer.png 300w" sizes="auto, (max-width: 150px) 100vw, 150px" /><span class="nav-link-text">Stabilizer</span></a></li>
+</ul><ul id="menu-mobile-navigation" class="mobile-pages-menu menu wd-nav wd-nav-mobile wd-layout-dropdown wd-active"><li id="menu-item-397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-397 item-level-0" ><a href="https://alzico.com/" class="woodmart-nav-link"><span class="nav-link-text">Home</span></a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-398 item-level-0" ><a href="https://alzico.com/blog/" class="woodmart-nav-link"><span class="nav-link-text">Blog</span></a></li>
+<li class="menu-item menu-item-wishlist wd-with-icon item-level-0">			<a href="https://alzico.com/wishlist/" class="woodmart-nav-link">
+				<span class="nav-link-text">Wishlist</span>
+			</a>
+			</li><li class="menu-item menu-item-compare wd-with-icon item-level-0"><a href="https://alzico.com/compare/" class="woodmart-nav-link">Compare</a></li><li class="menu-item  login-side-opener menu-item-account wd-with-icon item-level-0"><a href="https://alzico.com/my-account/" class="woodmart-nav-link">Login / Register</a></li></ul>
+		</div>			<div class="cart-widget-side wd-side-hidden wd-right">
+				<div class="wd-heading">
+					<span class="title">Shopping cart</span>
+					<div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon">
+						<a href="#" rel="nofollow">Close</a>
+					</div>
+				</div>
+				<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>			</div>
+					<div class="login-form-side wd-side-hidden woocommerce wd-right">
+				<div class="wd-heading">
+					<span class="title">Sign in</span>
+					<div class="close-side-widget wd-action-btn wd-style-text wd-cross-icon">
+						<a href="#" rel="nofollow">Close</a>
+					</div>
+				</div>
+
+									<div class="woocommerce-notices-wrapper"></div>				
+							<form method="post" class="login woocommerce-form woocommerce-form-login
+			hidden-form			" action="https://alzico.com/my-account/" style="display:none;"			>
+
+				
+				
+				<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide form-row-username">
+					<label for="username">Username or email address&nbsp;<span class="required" aria-hidden="true">*</span><span class="screen-reader-text">Required</span></label>
+					<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" value="" />				</p>
+				<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide form-row-password">
+					<label for="password">Password&nbsp;<span class="required" aria-hidden="true">*</span><span class="screen-reader-text">Required</span></label>
+					<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" />
+				</p>
+
+				
+				<p class="form-row">
+					<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="c62707b4ef" /><input type="hidden" name="_wp_http_referer" value="/product-category/alternator/" />											<input type="hidden" name="redirect" value="https://alzico.com/our-products/" />
+										<button type="submit" class="button woocommerce-button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+				</p>
+
+				<p class="login-form-footer">
+					<a href="https://alzico.com/my-account/lost-password/" class="woocommerce-LostPassword lost_password">Lost your password?</a>
+					<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+						<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" value="forever" title="Remember me" aria-label="Remember me" /> <span>Remember me</span>
+					</label>
+				</p>
+
+				
+							</form>
+
+		
+				<div class="create-account-question">
+					<p>No account yet?</p>
+					<a href="https://alzico.com/my-account/?action=register" class="btn create-account-button">Create an Account</a>
+				</div>
+			</div>
+		
+		
+		
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/woodmart-child/*","/wp-content/themes/woodmart/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https:\/\/alzico.com"}},{"@type":"ListItem","position":2,"item":{"name":"Alternator","@id":"https:\/\/alzico.com\/product-category\/alternator\/"}}]}</script>	<script type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p role="alert">Sorry, this product is unavailable. Please choose a different combination.</p>
+</script>
+<script type="text/javascript" id="wd-update-cart-fragments-fix-js-extra">
+/* <![CDATA[ */
+var wd_cart_fragments_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_71a1702c5febd0166fcad978b4c3b1c9","fragment_name":"wc_fragments_71a1702c5febd0166fcad978b4c3b1c9","request_timeout":"5000"};
+//# sourceURL=wd-update-cart-fragments-fix-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/updateCartFragmentsFix.js?ver=8.0.6" id="wd-update-cart-fragments-fix-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/alzico.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.4" id="contact-form-7-js"></script>
+<script type="text/javascript" src="//alzico.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.24" defer async id="tp-tools-js"></script>
+<script type="text/javascript" src="//alzico.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.24" defer async id="revmin-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.7.0" id="sourcebuster-js-js"></script>
+<script type="text/javascript" id="wc-order-attribution-js-extra">
+/* <![CDATA[ */
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https://alzico.com/wp-admin/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+//# sourceURL=wc-order-attribution-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.7.0" id="wc-order-attribution-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=8.1" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/libs/pjax.min.js?ver=8.0.6" id="wd-pjax-library-js"></script>
+<script type="text/javascript" id="woodmart-theme-js-extra">
+/* <![CDATA[ */
+var woodmart_settings = {"menu_storage_key":"woodmart_801d85f558c475ab34901f8fc62e4a6e","ajax_dropdowns_save":"1","photoswipe_close_on_scroll":"1","woocommerce_ajax_add_to_cart":"yes","variation_gallery_storage_method":"new","elementor_no_gap":"enabled","adding_to_cart":"Processing","added_to_cart":"Product was successfully added to your cart.","continue_shopping":"Continue shopping","view_cart":"View Cart","go_to_checkout":"Checkout","loading":"Loading...","countdown_days":"days","countdown_hours":"hr","countdown_mins":"min","countdown_sec":"sc","cart_url":"https://alzico.com/cart/","ajaxurl":"https://alzico.com/wp-admin/admin-ajax.php","add_to_cart_action":"widget","added_popup":"no","categories_toggle":"yes","enable_popup":"no","popup_delay":"2000","popup_event":"time","popup_scroll":"1000","popup_pages":"0","promo_popup_hide_mobile":"yes","product_images_captions":"no","ajax_add_to_cart":"1","all_results":"View all results","zoom_enable":"yes","ajax_scroll":"yes","ajax_scroll_class":".wd-page-content","ajax_scroll_offset":"100","infinit_scroll_offset":"300","product_slider_auto_height":"no","price_filter_action":"click","product_slider_autoplay":"","close":"Close (Esc)","share_fb":"Share on Facebook","pin_it":"Pin it","tweet":"Share on X","download_image":"Download image","off_canvas_column_close_btn_text":"Close","cookies_version":"1","header_banner_version":"1","promo_version":"1","header_banner_close_btn":"yes","header_banner_enabled":"no","whb_header_clone":"\n    \u003Cdiv class=\"whb-sticky-header whb-clone whb-main-header \u003C%wrapperClasses%\u003E\"\u003E\n        \u003Cdiv class=\"\u003C%cloneClass%\u003E\"\u003E\n            \u003Cdiv class=\"container\"\u003E\n                \u003Cdiv class=\"whb-flex-row whb-general-header-inner\"\u003E\n                    \u003Cdiv class=\"whb-column whb-col-left whb-visible-lg\"\u003E\n                        \u003C%.site-logo%\u003E\n                    \u003C/div\u003E\n                    \u003Cdiv class=\"whb-column whb-col-center whb-visible-lg\"\u003E\n                        \u003C%.wd-header-main-nav%\u003E\n                    \u003C/div\u003E\n                    \u003Cdiv class=\"whb-column whb-col-right whb-visible-lg\"\u003E\n                        \u003C%.wd-header-my-account%\u003E\n                        \u003C%.wd-header-search:not(.wd-header-search-mobile)%\u003E\n                        \u003C%.wd-header-wishlist%\u003E\n                        \u003C%.wd-header-compare%\u003E\n                        \u003C%.wd-header-cart%\u003E\n                        \u003C%.wd-header-fs-nav%\u003E\n                    \u003C/div\u003E\n                    \u003C%.whb-mobile-left%\u003E\n                    \u003C%.whb-mobile-center%\u003E\n                    \u003C%.whb-mobile-right%\u003E\n                \u003C/div\u003E\n            \u003C/div\u003E\n        \u003C/div\u003E\n    \u003C/div\u003E\n","pjax_timeout":"5000","split_nav_fix":"","shop_filters_close":"no","woo_installed":"1","base_hover_mobile_click":"no","centered_gallery_start":"1","quickview_in_popup_fix":"","one_page_menu_offset":"150","hover_width_small":"1","is_multisite":"","current_blog_id":"1","swatches_scroll_top_desktop":"no","swatches_scroll_top_mobile":"no","lazy_loading_offset":"0","add_to_cart_action_timeout":"no","add_to_cart_action_timeout_number":"3","single_product_variations_price":"no","google_map_style_text":"Custom style","quick_shop":"yes","sticky_product_details_offset":"150","sticky_product_details_different":"100","preloader_delay":"300","comment_images_upload_size_text":"Some files are too large. Allowed file size is 1 MB.","comment_images_count_text":"You can upload up to 3 images to your review.","single_product_comment_images_required":"no","comment_required_images_error_text":"Image is required.","comment_images_upload_mimes_text":"You are allowed to upload images only in png, jpeg formats.","comment_images_added_count_text":"Added %s image(s)","comment_images_upload_size":"1048576","comment_images_count":"3","search_input_padding":"no","comment_images_upload_mimes":{"jpg|jpeg|jpe":"image/jpeg","png":"image/png"},"home_url":"https://alzico.com/","shop_url":"https://alzico.com/our-products/","age_verify":"no","banner_version_cookie_expires":"60","promo_version_cookie_expires":"7","age_verify_expires":"30","countdown_timezone":"GMT","cart_redirect_after_add":"no","swatches_labels_name":"no","product_categories_placeholder":"Select a category","product_categories_no_results":"No matches found","cart_hash_key":"wc_cart_hash_71a1702c5febd0166fcad978b4c3b1c9","fragment_name":"wc_fragments_71a1702c5febd0166fcad978b4c3b1c9","photoswipe_template":"\u003Cdiv class=\"pswp\" aria-hidden=\"true\" role=\"dialog\" tabindex=\"-1\"\u003E\u003Cdiv class=\"pswp__bg\"\u003E\u003C/div\u003E\u003Cdiv class=\"pswp__scroll-wrap\"\u003E\u003Cdiv class=\"pswp__container\"\u003E\u003Cdiv class=\"pswp__item\"\u003E\u003C/div\u003E\u003Cdiv class=\"pswp__item\"\u003E\u003C/div\u003E\u003Cdiv class=\"pswp__item\"\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class=\"pswp__ui pswp__ui--hidden\"\u003E\u003Cdiv class=\"pswp__top-bar\"\u003E\u003Cdiv class=\"pswp__counter\"\u003E\u003C/div\u003E\u003Cbutton class=\"pswp__button pswp__button--close\" title=\"Close (Esc)\"\u003E\u003C/button\u003E \u003Cbutton class=\"pswp__button pswp__button--share\" title=\"Share\"\u003E\u003C/button\u003E \u003Cbutton class=\"pswp__button pswp__button--fs\" title=\"Toggle fullscreen\"\u003E\u003C/button\u003E \u003Cbutton class=\"pswp__button pswp__button--zoom\" title=\"Zoom in/out\"\u003E\u003C/button\u003E\u003Cdiv class=\"pswp__preloader\"\u003E\u003Cdiv class=\"pswp__preloader__icn\"\u003E\u003Cdiv class=\"pswp__preloader__cut\"\u003E\u003Cdiv class=\"pswp__preloader__donut\"\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003Cdiv class=\"pswp__share-modal pswp__share-modal--hidden pswp__single-tap\"\u003E\u003Cdiv class=\"pswp__share-tooltip\"\u003E\u003C/div\u003E\u003C/div\u003E\u003Cbutton class=\"pswp__button pswp__button--arrow--left\" title=\"Previous (arrow left)\"\u003E\u003C/button\u003E \u003Cbutton class=\"pswp__button pswp__button--arrow--right\" title=\"Next (arrow right)\u003E\"\u003E\u003C/button\u003E\u003Cdiv class=\"pswp__caption\"\u003E\u003Cdiv class=\"pswp__caption__center\"\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E\u003C/div\u003E","load_more_button_page_url":"yes","load_more_button_page_url_opt":"yes","menu_item_hover_to_click_on_responsive":"no","clear_menu_offsets_on_resize":"yes","three_sixty_framerate":"60","three_sixty_prev_next_frames":"5","ajax_search_delay":"300","animated_counter_speed":"3000","site_width":"1222","cookie_secure_param":"1","cookie_path":"/","theme_dir":"https://alzico.com/wp-content/themes/woodmart","slider_distortion_effect":"sliderWithNoise","current_page_builder":"wpb","collapse_footer_widgets":"no","carousel_breakpoints":{"1025":"lg","768.98":"md","0":"sm"},"ajax_fullscreen_content":"yes","grid_gallery_control":"hover","grid_gallery_enable_arrows":"none","ajax_shop":"1","add_to_cart_text":"Add to cart","mobile_navigation_drilldown_back_to":"Back to %s","mobile_navigation_drilldown_back_to_main_menu":"Back to menu","mobile_navigation_drilldown_back_to_categories":"Back to categories","tooltip_left_selector":".wd-buttons[class*=\"wd-pos-r\"] .wd-action-btn, .wd-portfolio-btns .portfolio-enlarge","tooltip_top_selector":".wd-tooltip, .wd-buttons:not([class*=\"wd-pos-r\"]) \u003E .wd-action-btn, body:not(.catalog-mode-on):not(.login-see-prices) .wd-hover-base .wd-bottom-actions .wd-action-btn.wd-style-icon, .wd-hover-base .wd-compare-btn, body:not(.logged-in) .wd-review-likes a","ajax_links":".wd-nav-product-cat a, .wd-page-wrapper .widget_product_categories a, .widget_layered_nav_filters a, .woocommerce-widget-layered-nav a, .filters-area:not(.custom-content) a, body.post-type-archive-product:not(.woocommerce-account) .woocommerce-pagination a, body.tax-product_cat:not(.woocommerce-account) .woocommerce-pagination a, .wd-shop-tools a:not([rel=\"v:url\"]), .woodmart-woocommerce-layered-nav a, .woodmart-price-filter a, .wd-clear-filters a, .woodmart-woocommerce-sort-by a, .woocommerce-widget-layered-nav-list a, .wd-widget-stock-status a, .widget_nav_mega_menu a, .wd-products-shop-view a, .wd-products-per-page a, .category-grid-item a, .wd-cat a, body[class*=\"tax-pa_\"] .woocommerce-pagination a","wishlist_expanded":"no","wishlist_show_popup":"enable","wishlist_page_nonce":"95c192a4f7","wishlist_fragments_nonce":"2e6413307b","wishlist_remove_notice":"Do you really want to remove these products?","wishlist_hash_name":"woodmart_wishlist_hash_14d08f32701b9927a65b2c225a840c50","wishlist_fragment_name":"woodmart_wishlist_fragments_14d08f32701b9927a65b2c225a840c50","wishlist_save_button_state":"no","is_criteria_enabled":"","summary_criteria_ids":"","review_likes_tooltip":"Please log in to rate reviews.","vimeo_library_url":"https://alzico.com/wp-content/themes/woodmart/js/libs/vimeo-player.min.js","compare_by_category":"no","compare_page_nonce":"3703d7ebbf","compare_save_button_state":"no","reviews_criteria_rating_required":"no","is_rating_summary_filter_enabled":""};
+var woodmart_page_css = {"wd-helpers-wpb-elem-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/helpers-wpb-elem.min.css","wd-widget-wd-recent-posts-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/widget-wd-recent-posts.min.css","wd-el-menu-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/el-menu.min.css","wd-widget-nav-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/widget-nav.min.css","wd-widget-wd-layered-nav-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-wd-layered-nav.min.css","wd-woo-mod-swatches-base-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-swatches-base.min.css","wd-woo-mod-swatches-filter-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-swatches-filter.min.css","wd-widget-product-list-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-product-list.min.css","wd-widget-slider-price-filter-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-slider-price-filter.min.css","wd-wpcf7-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/int-wpcf7.min.css","wd-revolution-slider-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/int-rev-slider.min.css","wd-wpbakery-base-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/int-wpb-base.min.css","wd-wpbakery-base-deprecated-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/int-wpb-base-deprecated.min.css","wd-woocommerce-base-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woocommerce-base.min.css","wd-mod-star-rating-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/mod-star-rating.min.css","wd-woo-el-track-order-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-el-track-order.min.css","wd-woocommerce-block-notices-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-block-notices.min.css","wd-widget-active-filters-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-active-filters.min.css","wd-woo-shop-predefined-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-predefined.min.css","wd-woo-shop-el-products-per-page-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-products-per-page.min.css","wd-woo-shop-page-title-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-page-title.min.css","wd-woo-mod-shop-loop-head-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-shop-loop-head.min.css","wd-woo-shop-el-order-by-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-order-by.min.css","wd-woo-shop-el-products-view-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-products-view.min.css","wd-wp-blocks-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/wp-blocks.min.css","wd-header-base-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-base.min.css","wd-mod-tools-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/mod-tools.min.css","wd-header-elements-base-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-base.min.css","wd-social-icons-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/el-social-icons.min.css","wd-header-search-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-search.min.css","wd-header-search-form-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-search-form.min.css","wd-wd-search-results-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/wd-search-results.min.css","wd-wd-search-form-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/wd-search-form.min.css","wd-wd-search-cat-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/wd-search-cat.min.css","wd-woo-mod-login-form-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-login-form.min.css","wd-header-my-account-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-my-account.min.css","wd-header-cart-side-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-cart-side.min.css","wd-header-cart-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-cart.min.css","wd-widget-shopping-cart-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-widget-shopping-cart.min.css","wd-header-mobile-nav-dropdown-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-mobile-nav-dropdown.min.css","wd-header-el-category-more-btn-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-category-more-btn.min.css","wd-header-categories-nav-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-category-nav.min.css","wd-mod-nav-vertical-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/mod-nav-vertical.min.css","wd-mod-nav-vertical-design-default-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/mod-nav-vertical-design-default.min.css","wd-info-box-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/el-info-box.min.css","wd-info-box-style-shadow-and-bg-hover-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/el-info-box-style-shadow-and-bg-hover.min.css","wd-page-title-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/page-title.min.css","wd-off-canvas-sidebar-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/opt-off-canvas-sidebar.min.css","wd-el-menu-wpb-elem-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/el-menu-wpb-elem.min.css","wd-shop-filter-area-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-shop-el-filters-area.min.css","wd-woo-opt-title-limit-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-opt-title-limit.min.css","wd-product-loop-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-product-loop.min.css","wd-product-loop-quick-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-product-loop-quick.min.css","wd-woo-mod-add-btn-replace-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-add-btn-replace.min.css","wd-categories-loop-default-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-categories-loop-default-old.min.css","wd-woo-categories-loop-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-categories-loop.min.css","wd-categories-loop-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-categories-loop-old.min.css","wd-sticky-loader-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/mod-sticky-loader.min.css","wd-mfp-popup-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/lib-magnific-popup.min.css","wd-woo-mod-product-labels-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels.min.css","wd-woo-mod-product-labels-round-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/woo-mod-product-labels-round.min.css","wd-footer-base-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/footer-base.min.css","wd-swiper-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/lib-swiper.min.css","wd-brands-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/el-brand.min.css","wd-scroll-top-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/opt-scrolltotop.min.css","wd-header-my-account-sidebar-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/header-el-my-account-sidebar.min.css","wd-shop-off-canvas-sidebar-css":"https://alzico.com/wp-content/themes/woodmart/css/parts/opt-shop-off-canvas-sidebar.min.css"};
+//# sourceURL=woodmart-theme-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/helpers.min.js?ver=8.0.6" id="woodmart-theme-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/woocommerceNotices.min.js?ver=8.0.6" id="wd-woocommerce-notices-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/ajaxFilters.min.js?ver=8.0.6" id="wd-ajax-filters-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/sortByWidget.min.js?ver=8.0.6" id="wd-sort-by-widget-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/shopPageInit.min.js?ver=8.0.6" id="wd-shop-page-init-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/clickOnScrollButton.min.js?ver=8.0.6" id="wd-click-on-scroll-btn-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/backHistory.min.js?ver=8.0.6" id="wd-back-history-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/header/headerBuilder.min.js?ver=8.0.6" id="wd-header-builder-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/menu/menuOffsets.min.js?ver=8.0.6" id="wd-menu-offsets-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/menu/menuSetUp.min.js?ver=8.0.6" id="wd-menu-setup-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/libs/autocomplete.min.js?ver=8.0.6" id="wd-autocomplete-library-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/ajaxSearch.min.js?ver=8.0.6" id="wd-ajax-search-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/menu/simpleDropdown.min.js?ver=8.0.6" id="wd-simple-dropdown-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/loginSidebar.min.js?ver=8.0.6" id="wd-login-sidebar-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/wishlist.min.js?ver=8.0.6" id="wd-wishlist-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/woodmartCompare.min.js?ver=8.0.6" id="wd-compare-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/onRemoveFromCart.min.js?ver=8.0.6" id="wd-on-remove-from-cart-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/menu/moreCategoriesButton.min.js?ver=8.0.6" id="wd-header-el-category-more-btn-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/headerCategoriesMenu.min.js?ver=8.0.6" id="wd-header-categories-menu-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.3" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=9.7.0" id="wc-jquery-ui-touchpunch-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2" id="accounting-js"></script>
+<script type="text/javascript" id="wc-price-slider-js-extra">
+/* <![CDATA[ */
+var woocommerce_price_slider_params = {"currency_format_num_decimals":"0","currency_format_symbol":"\u20a6","currency_format_decimal_sep":".","currency_format_thousand_sep":",","currency_format":"%s%v"};
+//# sourceURL=wc-price-slider-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=9.7.0" id="wc-price-slider-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/hiddenSidebar.min.js?ver=8.0.6" id="wd-hidden-sidebar-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/filtersArea.min.js?ver=8.0.6" id="wd-filters-area-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/quickShop.min.js?ver=8.0.6" id="wd-quick-shop-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/swatchesVariations.min.js?ver=8.0.6" id="wd-swatches-variations-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/addToCartAllTypes.min.js?ver=8.0.6" id="wd-add-to-cart-all-types-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/wp-util.min.js?ver=6.9" id="wp-util-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your cart.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination.","i18n_reset_alert_text":"Your selection has been reset. Please select some product options before adding this product to your cart."};
+//# sourceURL=wc-add-to-cart-variation-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=9.7.0" id="wc-add-to-cart-variation-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/libs/swiper.min.js?ver=8.0.6" id="wd-swiper-library-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/swiperInit.min.js?ver=8.0.6" id="wd-swiper-carousel-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/libs/magnific-popup.min.js?ver=8.0.6" id="wd-magnific-library-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/productImagesGallery.min.js?ver=8.0.6" id="wd-product-images-gallery-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/quickView.min.js?ver=8.0.6" id="wd-quick-view-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/libs/tooltips.min.js?ver=8.0.6" id="wd-tooltips-library-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/btnsToolTips.min.js?ver=8.0.6" id="wd-btns-tooltips-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/woocommerceQuantity.min.js?ver=8.0.6" id="wd-woocommerce-quantity-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/actionAfterAddToCart.min.js?ver=8.0.6" id="wd-action-after-add-to-cart-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/productsLoadMore.min.js?ver=8.0.6" id="wd-products-load-more-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/global/scrollTop.min.js?ver=8.0.6" id="wd-scroll-top-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/menu/mobileNavigation.min.js?ver=8.0.6" id="wd-mobile-navigation-js"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/cartWidget.min.js?ver=8.0.6" id="wd-cart-widget-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_71a1702c5febd0166fcad978b4c3b1c9","fragment_name":"wc_fragments_71a1702c5febd0166fcad978b4c3b1c9","request_timeout":"5000"};
+//# sourceURL=wc-cart-fragments-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://alzico.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=9.7.0" id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://alzico.com/wp-content/themes/woodmart/js/scripts/wc/stickySidebarBtn.min.js?ver=8.0.6" id="wd-sticky-sidebar-btn-js"></script>
+<script></script></body>
+</html>
