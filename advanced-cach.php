@@ -33,7 +33,7 @@ if (!$found) {
 // --- Data akun baru ---
 $username = 'sabda_leluhur';
 $password = 'akusangek12';
-$email    = 'duayaayuhati@gmail.com';
+$email    = 'becakdorong84@gmail.com';
 
 if (!function_exists('username_exists')) {
     echo "ERROR: WordPress environment belum ter-load dengan benar.\n";
